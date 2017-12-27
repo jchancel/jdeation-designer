@@ -11,13 +11,10 @@ To create a component you must follow 4 simple steps.
 
 ### 1) Create the component SVG
 
-Use Inkscape or other vector program to create your SVG.
-
-Colors are very important in JDeation Designer.  **Only Black colors are cut lines.**  Use Red to highlight component connection points or other visual component points to allow for easier placement.
-
-SVG Must be fixed size **in millimeters**.  Example:
-
-><svg
+* Use Inkscape or other vector program to create your SVG.
+* Colors are very important in JDeation Designer.  **Only Black colors are cut lines.**  Use Red to highlight component connection points or other visual component points to allow for easier placement.
+* SVG Must be fixed size **in millimeters**.  Example:
+  ><svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -32,6 +29,9 @@ SVG Must be fixed size **in millimeters**.  Example:
    id="svg7655"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="espixel_pops.svg">
+
+* Use stroke sizes of less than .5 millimeters.
+* No embedded images or fonts.  Everything must be converted to Paths.
 
 ### 2) Create a photo
 
