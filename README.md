@@ -7,9 +7,9 @@ This repository holds all of the components which are used by the JDeation Desig
 Use this GitHub repository to add it.
 
 # How To Create A Component
-To create a component you must follow 3 simple steps.
+To create a component you must follow 4 simple steps.
 
-### Create the component SVG
+### 1) Create the component SVG
 
 Use Inkscape or other vector program to create your SVG.
 
@@ -33,12 +33,12 @@ SVG Must be fixed size **in millimeters**.  Example:
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="espixel_pops.svg">
 
-### Create a photo
+### 2) Create a photo
 
 Take a photo of your component.  Width / Height not important as image will be scaled,  but please
 keep your photo to a minimal filesize.  Any web based file format accepted (jpg, gif, png)
 
-### Edit the CSV
+### 3) Edit the CSV
 
 Add your SVG and Image to the appropriate directory in GitHub.  Please try to keep things organized.  See how
 rest of directory structure is organized and follow along.
@@ -46,6 +46,6 @@ rest of directory structure is organized and follow along.
 In the root GitHub directory there is CSV file named jdeation_component_list.csv.  Add your
 design to the csv file.  **All Fields are Mandatory.**
 
-### All Done
+### 4) Initiate Pull Request
 
 Initiate a GitHub pull request and we will pull your design into the solution.  Upon the next JDeation Designer build your components will be part of the solution.
