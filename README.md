@@ -51,3 +51,33 @@ design to the csv file.  **All Fields are Mandatory.**
 ### 4) Initiate Pull Request
 
 Initiate a GitHub pull request and we will pull your design into the solution.  Upon the next JDeation Designer build your components will be part of the solution.
+
+
+# How To Create a Model
+
+A Model is the base svg of every design.
+Typically it is created it CAD software and forms the basis for a case design.
+
+New Models may be added to GitHub similar to components.
+
+#1) Create the model SVG
+
+Create the svg Model using your favorite design software (Fusion 360, Inkskape, etc...).
+
+Keep your parts close together to reduce material waste.
+
+#2) Edit the CSV
+
+Add your model to the ** models ** directory in Git.
+
+In the root GitHub directory there is CSV file named jdeation_model_list.csv.  Add your
+model to the csv file.  **All Fields are Mandatory.**
+
+#3 Initiate Pull Request
+
+Initiate a GitHub pull request and we will pull your design into the solution.  Upon the next JDeation Designer build your model will be part of the solution.
+
+
+
+
+
