@@ -56,7 +56,7 @@ Initiate a GitHub pull request and we will pull your design into the solution.  
 # How To Create a Model
 
 A Model is the base svg of every design.
-Typically it is created it CAD software and forms the basis for a case design.
+Typically it is created in CAD software and forms the basis for a case design.
 
 New Models may be added to GitHub similar to components.
 
