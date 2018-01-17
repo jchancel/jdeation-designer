@@ -11,7 +11,7 @@ component_id,short_description,long_description,directory,category,image_name,sv
                         <br>
                         Hole size is 2.34mm - designed for 4-40 screw / standoff
                         <br>",/controllers/,Controllers,controllers/image/E682-Measured.jpg,controllers/svg/sandevice_e682_r1_3.svg,http://www.sandevices.com
-4,ESPixel Pops,"                        Screw holes for ESPixel Pops which is a through hole pixel controller which runs the ESPixelStick software.
+4,ESPixel Pops,"Screw holes for ESPixel Pops which is a through hole pixel controller which runs the ESPixelStick software.
                         <br>
                         Hole size is 2.34mm - designed for 4-40 screw / standoff
                         <br>",/controllers/,Controllers,controllers/image/espixel_pops.jpg,controllers/svg/espixel_pops.svg,http://doityourselfchristmas.com
@@ -19,3 +19,5 @@ component_id,short_description,long_description,directory,category,image_name,sv
 6,40mm Fan,This component will create a circle hole and screw holes sized to fit a 40mm fan,/misc/,Misc,misc/image/40mm_fan.jpg,misc/svg/fan_40mm.svg,https://www.amazon.com/DAOKI-404010mm-Cooling-printer-Reprap/dp/B01JGNKNG2/ref=sr_1_10?ie=UTF8&qid=1514262195&sr=8-10&keywords=40mm+fan
 7,Pop Power Fanout - 4 port,Screw holes for Pop Power Fanout / Power Distribution board.  Revision 1.2 of board.,/misc/,Misc,misc/image/pops_power_fanout_v2-1.jpg,misc/svg/pops_power_fanout_2-1.svg,https://holiday.lighting/
 8,Wire Zip Tie Holes,Creates to square holes which a zip tie can be run between to hold wires down,/misc/,Misc,misc/image/ziptie.jpg,misc/svg/wire_tie_down.svg,n/a
+9,CFOL Power Distro 4 v1.1,Screw holes for CFOL Power Distro 4 board.  Revision 1.1 of board.,/misc/,Misc,misc/image/cfol_power_distro_4_v1-1.jpg,misc/svg/cfol_power_distro_4_v1-1.svg,https://www.crockettfantasyoflights.com/product/cfol-distro-4/
+10,ESPixelStick,Screw holes for official ESPixelStick which runs the ESPixelStick software.,/controllers/,Controllers,controllers/image/espixelstick_v2-0.jpg,controllers/svg/espixelstick_v2-0.svg,http://forkineye.com/ESPixelStick/
