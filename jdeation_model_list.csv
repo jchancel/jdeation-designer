@@ -1,4 +1,5 @@
 design_id,width,height,svg_filename,fabricate_url,public,description
-CG1500SL,938,900,models/cg1500_v1.svg,http://shop.jdeation.com/index.php?route=product/product&product_id=51,Y,Basic CG1500 mounting plate
+CG1500SL,247,246,models/cg1500_bottom_plate_v1.svg,http://shop.jdeation.com/index.php?route=product/product&product_id=53,Y,Basic CG1500 Single Level Mounting Plate
 DIYCOMPACTCASE_4-6,400,300,models/compact_case_noholes_4-6thick_v2.svg,http://shop.jdeation.com/index.php?route=product/product&product_id=51,N,Blank Compact Case - 3/16 Thickness
 DIYCOMPACTCASE_4-6,400,300,models/compact_case_noholes_4-5thick_v3.svg,http://shop.jdeation.com/index.php?route=product/product&product_id=51,Y,Blank Compact Case - 3/16 Thickness
+CG1500DL,490,246,models/cg1500_double_v1.svg,http://shop.jdeation.com/index.php?route=product/product&product_id=52,Y,CG1500 Double Level Mounting Plate Set
