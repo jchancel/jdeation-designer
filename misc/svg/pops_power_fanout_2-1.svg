@@ -60,6 +60,47 @@
        id="*MODEL_SPACE" />
     <symbol
        id="*PAPER_SPACE" />
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX-5">
+      <path
+         id="path8900"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-2"
+       height="8">
+      <path
+         id="path8903"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path8905"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path8907"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-8" />
+    <symbol
+       id="*PAPER_SPACE-6" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -68,9 +109,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3734376"
-     inkscape:cx="125.7927"
-     inkscape:cy="101.0718"
+     inkscape:zoom="2.0118592"
+     inkscape:cx="183.28595"
+     inkscape:cy="88.821196"
      inkscape:document-units="mm"
      inkscape:current-layer="g4511"
      showgrid="false"
@@ -87,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,31 +142,36 @@
        inkscape:label="0"
        transform="matrix(0.26458333,0,0,0.26458333,0.83987873,-50.356631)"
        style="fill:none;stroke:#000000;stroke-opacity:1">
-      <path
-         id="path4501"
-         style="fill:none;stroke:#e80000;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 378.33071,1122.5197 H 0 v 189.3543 h 378.33071 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4503"
-         style="fill:none;stroke:#000000;stroke-opacity:1"
-         d="m 15.949606,1133.8583 a 4.611024,4.611024 0 1 0 -9.222047,0 4.611024,4.611024 0 1 0 9.222047,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4505"
-         style="fill:none;stroke:#000000;stroke-opacity:1"
-         d="m 15.949606,1300.5354 a 4.611024,4.611024 0 1 0 -9.222047,0 4.611024,4.611024 0 1 0 9.222047,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4507"
-         style="fill:none;stroke:#000000;stroke-opacity:1"
-         d="m 370.01575,1300.5354 a 4.611025,4.611025 0 1 0 -9.22205,0 4.611025,4.611025 0 1 0 9.22205,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4509"
-         style="fill:none;stroke:#000000;stroke-opacity:1"
-         d="m 371.60315,1133.8583 a 4.611025,4.611025 0 1 0 -9.22205,0 4.611025,4.611025 0 1 0 9.22205,0 z"
-         inkscape:connector-curvature="0" />
+      <g
+         id="g8924"
+         inkscape:label="0"
+         transform="translate(0.50494833,0.20121773)">
+        <path
+           id="path8914"
+           style="fill:none;stroke:#ff0000;stroke-opacity:1"
+           d="M 378.33071,1122.5197 H 0 v 189.3543 h 378.33071 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8916"
+           style="fill:none;stroke:#000000"
+           d="m 16.15748,1133.8583 a 4.818898,4.818898 0 1 0 -9.637795,0 4.818898,4.818898 0 1 0 9.637795,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8918"
+           style="fill:none;stroke:#000000"
+           d="m 16.15748,1300.5354 a 4.818898,4.818898 0 1 0 -9.637795,0 4.818898,4.818898 0 1 0 9.637795,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8920"
+           style="fill:none;stroke:#000000"
+           d="m 370.22362,1300.5354 a 4.818898,4.818898 0 1 0 -9.63779,0 4.818898,4.818898 0 1 0 9.63779,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8922"
+           style="fill:none;stroke:#000000"
+           d="m 371.81102,1133.8583 a 4.818898,4.818898 0 1 0 -9.63779,0 4.818898,4.818898 0 1 0 9.63779,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <rect
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
