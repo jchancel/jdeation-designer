@@ -33,7 +33,7 @@ To create a component you must follow 4 simple steps.
 * Use stroke sizes of less than .5 millimeters.
 * No embedded images or fonts.  Everything must be converted to Paths.
 * When creating mounting holes use the following sized holes:
-  * For 4-40 screw / standoff - hole size should be 2.55 millimeters
+  * For 3mm screw / standoff - hole size should be 2.7 millimeters
 
 ### 2) Create a photo
 
