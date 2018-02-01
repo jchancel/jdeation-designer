@@ -2,7 +2,7 @@ component_id,short_description,long_description,directory,category,image_name,sv
 1,Meanwell LRS-350,"Screw holes for standard 350w power supply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
                         <br>
                         Hole size is 4mm - designed for screws to pass through material and into power supply from below.
-                        <br>",/power/,Misc,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,http://www.amazon.com
+                        <br>",/power/,Power And Fusing,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,http://www.amazon.com
 2,Raspberry PI 3 Model B,"Screw holes for Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
                         <br>
                         Hole size is 2.34mm - designed for 4-40 screw / standoff
