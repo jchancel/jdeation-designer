@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,9 +38,9 @@
      inkscape:window-height="1017"
      id="namedview5244"
      showgrid="false"
-     inkscape:zoom="1.8112011"
-     inkscape:cx="-126.97342"
-     inkscape:cy="66.345147"
+     inkscape:zoom="3.0705519"
+     inkscape:cx="-39.611983"
+     inkscape:cy="74.972031"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -132,6 +132,47 @@
        id="*MODEL_SPACE-9" />
     <symbol
        id="*PAPER_SPACE-8" />
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX-2">
+      <path
+         id="path4544"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-9"
+       height="8">
+      <path
+         id="path4547"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4549"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4551"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-7" />
+    <symbol
+       id="*PAPER_SPACE-6" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -270,16 +311,21 @@
        id="g6844"
        inkscape:label="0"
        transform="translate(135.40442,-218.2064)">
-      <path
-         id="path6840"
-         style="fill:none;stroke:#ec0000;stroke-opacity:1"
-         d="m -42.275316,1146.3056 h -90.708664 v 191.2441 h 90.708664 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6842"
-         style="fill:none;stroke:#000000"
-         d="m -82.810749,1193.0583 a 4.818898,4.818898 0 1 0 -9.637795,0 4.818898,4.818898 0 1 0 9.637795,0 z"
-         inkscape:connector-curvature="0" />
+      <g
+         id="g4562"
+         inkscape:label="0"
+         transform="translate(-133.20828,24.32027)">
+        <path
+           id="path4558"
+           style="fill:none;stroke:#c80000;stroke-opacity:1"
+           d="M 90.708661,1122.5197 H 0 v 191.2441 h 90.708661 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4560"
+           style="fill:none;stroke:#000000"
+           d="m 50.456693,1169.2724 a 5.102362,5.102362 0 1 0 -10.204724,0 5.102362,5.102362 0 1 0 10.204724,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>

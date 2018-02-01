@@ -1,13 +1,13 @@
 component_id,short_description,long_description,directory,category,image_name,svg_name,purchase_url
-1,Meanwell LRS-350,"                        Screw holes for standard 350w power supply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
+1,Meanwell LRS-350,"Screw holes for standard 350w power supply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
                         <br>
                         Hole size is 4mm - designed for screws to pass through material and into power supply from below.
-                        <br>",/misc/,Misc,misc/image/LRS-350.jpg,misc/svg/meanwell_LRS_350.svg,http://www.amazon.com
-2,Raspberry PI 3 Model B,"                        Screw holes for Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
+                        <br>",/power/,Misc,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,http://www.amazon.com
+2,Raspberry PI 3 Model B,"Screw holes for Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
                         <br>
                         Hole size is 2.34mm - designed for 4-40 screw / standoff
                         <br>",/computers/,Computers,computers/image/raspberry_pi_3b.jpg,computers/svg/raspberry_pi_3b.svg,http://www.amazon.com
-3,SanDevice E682 Rev 1.3,"                       6 mounting holes for the SanDevice 16 channel pixel controller.  This is for Revision 1.3 of the Board
+3,SanDevice E682 Rev 1.3,"6 mounting holes for the SanDevice 16 channel pixel controller.  This is for Revision 1.3 of the Board
                         <br>
                         Hole size is 2.34mm - designed for 4-40 screw / standoff
                         <br>",/controllers/,Controllers,controllers/image/E682-Measured.jpg,controllers/svg/sandevice_e682_r1_3.svg,http://www.sandevices.com
@@ -17,7 +17,7 @@ component_id,short_description,long_description,directory,category,image_name,sv
                         <br>",/controllers/,Controllers,controllers/image/espixel_pops.jpg,controllers/svg/espixel_pops.svg,http://doityourselfchristmas.com
 5,3/4 inch Knockout Clamp,This component will create a circle hole which is sized to fit a 3/4 knockout clamp,/misc/,Misc,misc/image/34_punchout_clamp.jpg,misc/svg/3-4_knockout_clamp.svg,https://www.homedepot.com/p/Halex-3-4-in-Non-Metallic-NM-Twin-Screw-Clamp-Connectors-5-Pack-20512/100134407?cm_mmc=Shopping%7cTHD%7cG%7c0%7cG-BASE-PLA-D27E-Electrical%7c&gclid=CjwKCAiA4ILSBRA0EiwAsuuBLUtWRpNyEbNzlXx-0lHtPXnW9ZYfSHlAPTHAQZMCjqsmek-VqHgN1BoCQ-IQAvD_BwE&gclsrc=aw.ds&dclid=CLDLhfHpptgCFUquTwodntEONg
 6,40mm Fan,This component will create a circle hole and screw holes sized to fit a 40mm fan,/misc/,Misc,misc/image/40mm_fan.jpg,misc/svg/fan_40mm.svg,https://www.amazon.com/DAOKI-404010mm-Cooling-printer-Reprap/dp/B01JGNKNG2/ref=sr_1_10?ie=UTF8&qid=1514262195&sr=8-10&keywords=40mm+fan
-7,Pop Power Fanout - 4 port,Screw holes for Pop Power Fanout / Power Distribution board.  Revision 1.2 of board.,/misc/,Misc,misc/image/pops_power_fanout_v2-1.jpg,misc/svg/pops_power_fanout_2-1.svg,https://holiday.lighting/
+7,Pop Power Fanout - 4 port,Screw holes for Pop Power Fanout / Power Distribution board.  Revision 1.2 of board.,/power/,Power And Fusing,power/image/pops_power_fanout_v2-1.jpg,power/svg/pops_power_fanout_2-1.svg,https://holiday.lighting/
 8,Wire Zip Tie Holes,Creates to square holes which a zip tie can be run between to hold wires down,/misc/,Misc,misc/image/ziptie.jpg,misc/svg/wire_tie_down.svg,n/a
-9,CFOL Power Distro 4 v1.1,Screw holes for CFOL Power Distro 4 board.  Revision 1.1 of board.,/misc/,Misc,misc/image/cfol_power_distro_4_v1-1.jpg,misc/svg/cfol_power_distro_4_v1-1.svg,https://www.crockettfantasyoflights.com/product/cfol-distro-4/
+9,CFOL Power Distro 4 v1.1,Screw holes for CFOL Power Distro 4 board.  Revision 1.1 of board.,/power/,Power And Fusing,power/image/cfol_power_distro_4_v1-1.jpg,power/svg/cfol_power_distro_4_v1-1.svg,https://www.crockettfantasyoflights.com/product/cfol-distro-4/
 10,ESPixelStick,Screw holes for official ESPixelStick which runs the ESPixelStick software.,/controllers/,Controllers,controllers/image/espixelstick_v2-0.jpg,controllers/svg/espixelstick_v2-0.svg,http://forkineye.com/ESPixelStick/

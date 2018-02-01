@@ -101,6 +101,47 @@
        id="*MODEL_SPACE-1" />
     <symbol
        id="*PAPER_SPACE-8" />
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX-3">
+      <path
+         id="path4561"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-9"
+       height="8">
+      <path
+         id="path4564"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4566"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4568"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-4" />
+    <symbol
+       id="*PAPER_SPACE-1" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -109,11 +150,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4225992"
-     inkscape:cx="21.344052"
-     inkscape:cy="-20.499588"
+     inkscape:zoom="4.8235004"
+     inkscape:cx="120.71405"
+     inkscape:cy="34.747969"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4511"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -128,7 +169,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -364,33 +405,33 @@
        id="path4545-9-5-5-8-7"
        inkscape:connector-curvature="0" />
     <g
-       id="g8262"
+       id="g4585"
        inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,0.68570613,-56.403436)">
+       transform="matrix(0.26458333,0,0,0.26458333,0.94385543,-56.378392)">
       <path
-         id="path8252"
+         id="path4575"
          style="fill:none;stroke:#ff0000;stroke-opacity:1"
          d="M 201.63779,1122.5197 H 0 v 211.6535 h 201.63779 z"
          inkscape:connector-curvature="0" />
       <path
-         id="path8254"
+         id="path4577"
          style="fill:none;stroke:#000000"
-         d="m 21.826772,1139.5276 a 4.818898,4.818898 0 1 0 -9.637796,0 4.818898,4.818898 0 1 0 9.637796,0 z"
+         d="m 22.110236,1139.5276 a 5.102362,5.102362 0 1 0 -10.204724,0 5.102362,5.102362 0 1 0 10.204724,0 z"
          inkscape:connector-curvature="0" />
       <path
-         id="path8256"
+         id="path4579"
          style="fill:none;stroke:#000000"
-         d="m 189.44882,1139.5276 a 4.8189,4.8189 0 1 0 -9.6378,0 4.8189,4.8189 0 1 0 9.6378,0 z"
+         d="m 189.73228,1139.5276 a 5.102362,5.102362 0 1 0 -10.20472,0 5.102362,5.102362 0 1 0 10.20472,0 z"
          inkscape:connector-curvature="0" />
       <path
-         id="path8258"
+         id="path4581"
          style="fill:none;stroke:#000000"
-         d="m 21.826772,1317.1654 a 4.818898,4.818898 0 1 0 -9.637796,0 4.818898,4.818898 0 1 0 9.637796,0 z"
+         d="m 22.110236,1317.1654 a 5.102362,5.102362 0 1 0 -10.204724,0 5.102362,5.102362 0 1 0 10.204724,0 z"
          inkscape:connector-curvature="0" />
       <path
-         id="path8260"
+         id="path4583"
          style="fill:none;stroke:#000000"
-         d="m 189.44882,1317.1654 a 4.8189,4.8189 0 1 0 -9.6378,0 4.8189,4.8189 0 1 0 9.6378,0 z"
+         d="m 189.73228,1317.1654 a 5.102362,5.102362 0 1 0 -10.20472,0 5.102362,5.102362 0 1 0 10.20472,0 z"
          inkscape:connector-curvature="0" />
     </g>
   </g>

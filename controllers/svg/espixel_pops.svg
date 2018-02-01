@@ -142,6 +142,47 @@
        id="*MODEL_SPACE-1" />
     <symbol
        id="*PAPER_SPACE-2" />
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX-1">
+      <path
+         id="path4551"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-5"
+       height="8">
+      <path
+         id="path4554"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4556"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4558"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-0" />
+    <symbol
+       id="*PAPER_SPACE-5" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -150,11 +191,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1664875"
-     inkscape:cx="14.971043"
-     inkscape:cy="16.701989"
+     inkscape:zoom="2.5971136"
+     inkscape:cx="117.73601"
+     inkscape:cy="28.025655"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9472"
+     inkscape:current-layer="g4571"
      showgrid="false"
      inkscape:measure-start="185.5,-0.234514"
      inkscape:measure-end="185.266,-0.234514"
@@ -171,7 +212,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -284,24 +325,23 @@
          transform="translate(-2.0983886e-8,0.02802363)"
          style="stroke:#ff0000;stroke-opacity:1">
         <g
-           id="g6193"
+           id="g4571"
            inkscape:label="0"
-           transform="translate(134.78387,122.20579)"
-           style="stroke:#000000;stroke-opacity:1">
+           transform="translate(129.75287,76.385125)">
           <path
-             id="path6187"
-             style="fill:none;stroke:#ff0000;stroke-opacity:1"
-             d="m -8.73663,1000.2858 h -126.04724 v 92.0315 H -8.73663 Z"
+             id="path4565"
+             style="fill:none;stroke:#f10000;stroke-opacity:1"
+             d="m -3.70563,1046.1065 h -126.04724 v 92.0315 H -3.70563 Z"
              inkscape:connector-curvature="0" />
           <path
-             id="path6189"
-             style="fill:none;stroke:#000000;stroke-opacity:1"
-             d="m -11.47678,1084.7582 a 4.8189,4.8189 0 1 0 -9.6378,0 4.8189,4.8189 0 1 0 9.6378,0 z"
+             id="path4567"
+             style="fill:none;stroke:#000000"
+             d="m -6.16232,1130.5789 a 5.102362,5.102362 0 1 0 -10.20472,0 5.102362,5.102362 0 1 0 10.20472,0 z"
              inkscape:connector-curvature="0" />
           <path
-             id="path6191"
-             style="fill:none;stroke:#000000;stroke-opacity:1"
-             d="m -47.382295,1039.4039 a 4.818898,4.818898 0 1 0 -9.637795,0 4.818898,4.818898 0 1 0 9.637795,0 z"
+             id="path4569"
+             style="fill:none;stroke:#000000"
+             d="m -42.067831,1085.2246 a 5.102362,5.102362 0 1 0 -10.204724,0 5.102362,5.102362 0 1 0 10.204724,0 z"
              inkscape:connector-curvature="0" />
         </g>
       </g>
