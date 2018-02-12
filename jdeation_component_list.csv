@@ -25,3 +25,4 @@ component_id,short_description,long_description,directory,category,image_name,sv
 12,SanDevice E6804 Rev 1.3,Screw Holes for Sandevice 4 port pixel controller,/controllers/,Controllers,controllers/image/E6804-Measured.jpg,controllers/svg/sandevice_e6804_r1_3.svg,http://www.sandevices.com
 13,Andy Harrison Power Distro Rev B,6 Port Power Distro Board (Pre CFOL),/power/,Power And Fusing,power/image/AH_Power_Distro_RevB.jpg,power/svg/AH_Power_Distro_RevB.svg,n/a
 14,Renard Shop SR32 Combo,32 Channel Renard Controller,/controllers/,Controllers,controllers/image/Renard_Shop_SR32_Combo.jpg,controllers/svg/Renard_Shop_SR32_Combo.svg,https://www.doityourselfchristmas.com/wiki/index.php?title=Simple_Renard_32_Combo
+15,Meanwell LRS-75,Meanwell LRS-75 Series Power Supply,/power/,Power And Fusing,power/image/Meanwell 75 Series.jpg,power/svg/Meanwell 75 Series.svg,n/a
