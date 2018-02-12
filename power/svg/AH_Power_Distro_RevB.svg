@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="Power Distro RevB.svg">
+   sodipodi:docname="AH_Power_Distro_RevB.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="254.64671"
+     inkscape:cx="207.16954"
      inkscape:cy="535.30452"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -34,7 +34,7 @@
      objecttolerance="40"
      inkscape:window-width="2560"
      inkscape:window-height="1537"
-     inkscape:window-x="2552"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,33 +60,30 @@
        height="47.5"
        x="37.961323"
        y="110.42445" />
-    <g
-       id="g861">
-      <circle
-         r="1.3502158"
-         cy="115.67445"
-         cx="41.961315"
-         id="path819"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="1.3502319"
-         cy="115.67445"
-         cx="111.96132"
-         id="path838"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="1.3502176"
-         cy="152.67445"
-         cx="41.961315"
-         id="path840"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="1.3502176"
-         cy="152.67445"
-         cx="111.96132"
-         id="path840-2"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.19999972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path819"
+       cx="41.961315"
+       cy="115.67445"
+       r="1.2498144" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path838"
+       cx="111.9613"
+       cy="115.67444"
+       r="1.2501093" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.19999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path840"
+       cx="41.961315"
+       cy="152.67445"
+       r="1.2498244" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.19999972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path840-2"
+       cx="111.96132"
+       cy="152.67445"
+       r="1.2498159" />
     <g
        transform="rotate(90,-51.167185,49.076117)"
        id="g982"
