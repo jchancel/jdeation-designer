@@ -26,3 +26,5 @@ component_id,short_description,long_description,directory,category,image_name,sv
 13,Andy Harrison Power Distro Rev B,6 Port Power Distro Board (Pre CFOL),/power/,Power And Fusing,power/image/AH_Power_Distro_RevB.jpg,power/svg/AH_Power_Distro_RevB.svg,n/a
 14,Renard Shop SR32 Combo,32 Channel Renard Controller,/controllers/,Controllers,controllers/image/Renard_Shop_SR32_Combo.jpg,controllers/svg/Renard_Shop_SR32_Combo.svg,https://www.doityourselfchristmas.com/wiki/index.php?title=Simple_Renard_32_Combo
 15,Meanwell LRS-75,Meanwell LRS-75 Series Power Supply,/power/,Power And Fusing,power/image/Meanwell 75 Series.jpg,power/svg/Meanwell 75 Series.svg,n/a
+16,RonsHL 32 Universe Rev A,32 Universe Controller,/controllers/,Controllers,controllers/image/16univ_RevA_brd.jpg,controllers/svg/16univ_RevA_brd.svg,https://ronsholidaylights.com/16-universe-controller/
+17,RonsHL 32 Universe Rev B,32 Universe Controller,/controllers/,Controllers,controllers/image/16univ_RevB_brd.jpg,controllers/svg/16univ_RevB_brd.svg,https://ronsholidaylights.com/single-cable-four-outputs/
