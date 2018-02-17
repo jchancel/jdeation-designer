@@ -4670,15 +4670,5 @@ Screw Size = M3"
          style="font-size:13.33333397px;fill:#ff0000;fill-opacity:1"
          id="path12168" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12106"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion12108"><rect
-           id="rect12110"
-           width="94.740204"
-           height="35.320992"
-           x="29.196667"
-           y="87.001854" /></flowRegion><flowPara
-         id="flowPara12112"></flowPara></flowRoot>  </g>
+      </g>
 </svg>
