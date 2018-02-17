@@ -1,32 +1,48 @@
 component_id,short_description,long_description,directory,category,image_name,svg_name,purchase_url
-1,Meanwell LRS-350,"Screw holes for standard 350w power supply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
-                        <br>
-                        Hole size is 4mm - designed for screws to pass through material and into power supply from below.
-                        <br>",/power/,Power And Fusing,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,http://www.amazon.com
-2,Raspberry PI 3 Model B,"Screw holes for Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
-                        <br>
-                        Hole size is 2.34mm - designed for 4-40 screw / standoff
-                        <br>",/computers/,Computers,computers/image/raspberry_pi_3b.jpg,computers/svg/raspberry_pi_3b.svg,http://www.amazon.com
+1,Meanwell LRS-350,"Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
+<br>
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,http://www.amazon.com
+2,Raspberry PI 3 Model B,"Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
+<br>
+Screw Size = M3
+                        ",/computers/,Computers,computers/image/raspberry_pi_3b.jpg,computers/svg/raspberry_pi_3b.svg,http://www.amazon.com
 3,SanDevice E682 Rev 1.3,"6 mounting holes for the SanDevice 16 channel pixel controller.  This is for Revision 1.3 of the Board
-                        <br>
-                        Hole size is 2.34mm - designed for 4-40 screw / standoff
-                        <br>",/controllers/,Controllers,controllers/image/E682-Measured.jpg,controllers/svg/sandevice_e682_r1_3.svg,http://www.sandevices.com
+<br>
+Screw Size = M3",/controllers/,Controllers,controllers/image/E682-Measured.jpg,controllers/svg/sandevice_e682_r1_3.svg,http://www.sandevices.com
 4,ESPixel Pops,"Screw holes for ESPixel Pops which is a through hole pixel controller which runs the ESPixelStick software.
-                        <br>
-                        Hole size is 2.34mm - designed for 4-40 screw / standoff
-                        <br>",/controllers/,Controllers,controllers/image/espixel_pops.jpg,controllers/svg/espixel_pops.svg,http://doityourselfchristmas.com
+<br>
+Screw Size = M3",/controllers/,Controllers,controllers/image/espixel_pops.jpg,controllers/svg/espixel_pops.svg,http://doityourselfchristmas.com
 5,3/4 inch Knockout Clamp,This component will create a circle hole which is sized to fit a 3/4 knockout clamp,/misc/,Misc,misc/image/34_punchout_clamp.jpg,misc/svg/3-4_knockout_clamp.svg,https://www.homedepot.com/p/Halex-3-4-in-Non-Metallic-NM-Twin-Screw-Clamp-Connectors-5-Pack-20512/100134407?cm_mmc=Shopping%7cTHD%7cG%7c0%7cG-BASE-PLA-D27E-Electrical%7c&gclid=CjwKCAiA4ILSBRA0EiwAsuuBLUtWRpNyEbNzlXx-0lHtPXnW9ZYfSHlAPTHAQZMCjqsmek-VqHgN1BoCQ-IQAvD_BwE&gclsrc=aw.ds&dclid=CLDLhfHpptgCFUquTwodntEONg
 6,40mm Fan,This component will create a circle hole and screw holes sized to fit a 40mm fan,/misc/,Misc,misc/image/40mm_fan.jpg,misc/svg/fan_40mm.svg,https://www.amazon.com/DAOKI-404010mm-Cooling-printer-Reprap/dp/B01JGNKNG2/ref=sr_1_10?ie=UTF8&qid=1514262195&sr=8-10&keywords=40mm+fan
-7,Pop Power Fanout - 4 port,Screw holes for Pop Power Fanout / Power Distribution board.  Revision 1.2 of board.,/power/,Power And Fusing,power/image/pops_power_fanout_v2-1.jpg,power/svg/pops_power_fanout_2-1.svg,https://holiday.lighting/
+7,Pop Power Fanout - 4 port,"Pop Power Fanout / Power Distribution board.  Revision 1.2 of board.
+<br>
+Screw Size = M3",/power/,Power And Fusing,power/image/pops_power_fanout_v2-1.jpg,power/svg/pops_power_fanout_2-1.svg,https://holiday.lighting/
 8,Wire Zip Tie Holes,Creates to square holes which a zip tie can be run between to hold wires down,/misc/,Misc,misc/image/ziptie.jpg,misc/svg/wire_tie_down.svg,n/a
-9,CFOL Power Distro 4 v1.1,Screw holes for CFOL Power Distro 4 board.  Revision 1.1 of board.,/power/,Power And Fusing,power/image/cfol_power_distro_4_v1-1.jpg,power/svg/cfol_power_distro_4_v1-1.svg,https://www.crockettfantasyoflights.com/product/cfol-distro-4/
-10,ESPixelStick,Screw holes for official ESPixelStick which runs the ESPixelStick software.,/controllers/,Controllers,controllers/image/espixelstick_v2-0.jpg,controllers/svg/espixelstick_v2-0.svg,http://forkineye.com/ESPixelStick/
-11,4 Port Fuse Holder,4 Port Fuse Holder creates screws designed for a 4mm screw.,/power/,Power And Fusing,power/image/4_port_fuse.jpg,power/svg/4_port_fuse_holder.svg,https://www.ebay.com/itm/4-WAY-FUSE-BLADE-HOLDER-BOX-BLOCK-CAR-VEHICLE-AUTOMOTIVE-CIRCUIT-4-FUSE-US-E8/112269038185?ssPageName=STRK%3AMEBIDX%3AIT
-12,SanDevice E6804 Rev 1.3,Screw Holes for Sandevice 4 port pixel controller,/controllers/,Controllers,controllers/image/E6804-Measured.jpg,controllers/svg/sandevice_e6804_r1_3.svg,http://www.sandevices.com
-13,Andy Harrison Power Distro Rev B,6 Port Power Distro Board (Pre CFOL),/power/,Power And Fusing,power/image/AH_Power_Distro_RevB.jpg,power/svg/AH_Power_Distro_RevB.svg,n/a
-14,Renard Shop SR32 Combo,32 Channel Renard Controller,/controllers/,Controllers,controllers/image/Renard_Shop_SR32_Combo.jpg,controllers/svg/Renard_Shop_SR32_Combo.svg,https://www.doityourselfchristmas.com/wiki/index.php?title=Simple_Renard_32_Combo
-15,Meanwell LRS-75,Meanwell LRS-75 Series Power Supply,/power/,Power And Fusing,power/image/meanwell_75_series.jpg,power/svg/meanwell_75_series.svg,http://www.amazon.com
-16,Falcon F16v3 - v1.0,Falcon 16 Port Pixel Controller ,/falcon/,Falcon,falcon/image/falcon-f16v3_v1.jpg,falcon/svg/falcon-f16v3_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
-17,Falcon Differential Expansion v2,Falcon Differential Expansion board Screw Holes,/falcon/,Falcon,falcon/image/falcon-differential-expansion_v2_0.jpg,falcon/svg/falcon-differential-expansion_v2_0.svg,https://www.pixelcontroller.com/store/index.php?id_product=44&controller=product
-18,Falcon Differential Receiver v1,Falcon Diiferential Receiver board screw holes,/falcon/,Falcon,falcon/image/falcon-differential-receiver_v1.jpg,falcon/svg/falcon-differential-receiver_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=45&controller=product
-19,Falcon F-8 Distro,Falcon F8 - 8 Port Power Distribution screw holes,/falcon/,Falcon,falcon/image/falcon-f8-distro-v1_02.jpg,falcon/svg/falcon-f8-distro-v1_02.svg,https://www.pixelcontroller.com/store/index.php?id_product=46&controller=product
+9,CFOL Power Distro 4 v1.1,"Screw holes for CFOL Power Distro 4 board.  Revision 1.1 of board.
+<br>
+Screw Size = M3",/power/,Power And Fusing,power/image/cfol_power_distro_4_v1-1.jpg,power/svg/cfol_power_distro_4_v1-1.svg,https://www.crockettfantasyoflights.com/product/cfol-distro-4/
+10,ESPixelStick,"Official ESPixelStick which runs the ESPixelStick software.
+<br>
+Screw Size = M3",/controllers/,Controllers,controllers/image/espixelstick_v2-0.jpg,controllers/svg/espixelstick_v2-0.svg,http://forkineye.com/ESPixelStick/
+11,4 Port Fuse Holder,"4 Port Fuse Holder.<br>
+Screw Size = M4",/power/,Power And Fusing,power/image/4_port_fuse.jpg,power/svg/4_port_fuse_holder.svg,https://www.ebay.com/itm/4-WAY-FUSE-BLADE-HOLDER-BOX-BLOCK-CAR-VEHICLE-AUTOMOTIVE-CIRCUIT-4-FUSE-US-E8/112269038185?ssPageName=STRK%3AMEBIDX%3AIT
+12,SanDevice E6804 Rev 1.3,"Sandevice 4 port pixel controller - Rev 1.3
+<br>
+Screw Size = M3",/controllers/,Controllers,controllers/image/E6804-Measured.jpg,controllers/svg/sandevice_e6804_r1_3.svg,http://www.sandevices.com
+13,Andy Harrison Power Distro Rev B,6 Port Power Distro Board (Pre CFOL) - NOT VERIFIED,/power/,Power And Fusing,power/image/AH_Power_Distro_RevB.jpg,power/svg/AH_Power_Distro_RevB.svg,n/a
+14,Renard Shop SR32 Combo,32 Channel Renard Controller - NOT VERIFIED,/controllers/,Controllers,controllers/image/Renard_Shop_SR32_Combo.jpg,controllers/svg/Renard_Shop_SR32_Combo.svg,https://www.doityourselfchristmas.com/wiki/index.php?title=Simple_Renard_32_Combo
+15,Meanwell LRS-75,"Meanwell LRS-75 Series Power Supply
+<br>
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/meanwell_75_series.jpg,power/svg/meanwell_75_series.svg,http://www.amazon.com
+16,Falcon F16v3 - v1.0,"Falcon 16 Port Pixel Controller  - F16V3 - v1.0
+<br>
+Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16v3_v1.jpg,falcon/svg/falcon-f16v3_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
+17,Falcon Differential Expansion v2,"Falcon Differential Expansion - v2.0
+<br>
+Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-expansion_v2_0.jpg,falcon/svg/falcon-differential-expansion_v2_0.svg,https://www.pixelcontroller.com/store/index.php?id_product=44&controller=product
+18,Falcon Differential Receiver v1,"Falcon Diiferential Receiver - v1.0
+<br>
+Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-receiver_v1.jpg,falcon/svg/falcon-differential-receiver_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=45&controller=product
+19,Falcon F-8 Distro,"Falcon F8 - 8 Port Power Distribution screw holes
+<br>
+Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f8-distro-v1_02.jpg,falcon/svg/falcon-f8-distro-v1_02.svg,https://www.pixelcontroller.com/store/index.php?id_product=46&controller=product
