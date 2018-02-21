@@ -12,10 +12,10 @@ To create a component you must follow 4 simple steps.
 ### 1) Create the component SVG
 
 * Use a CAD program to create your design.  Fusion 360 is a popular choice which is free for hobbyists.  
-** Export from CAD to DXFImport
-** Import DXF into Inkscape to put on any final touches.  
-** Save as SVG
-** NOTE:  Do not create designs initially from Inkscape.  Inkscape is inaccurate for hole measurements and does not always import well.  Use a CAD program to create initial design.
+  * Export from CAD to DXFImport
+  * Import DXF into Inkscape to put on any final touches.  
+  * Save as SVG
+  * NOTE:  Do not create designs initially from Inkscape.  Inkscape is inaccurate for hole measurements and does not always import well.  Use a CAD program to create initial design.
 * Colors are very important in JDeation Designer.  **Only Black colors are cut lines.**  Use Red to highlight component connection points or other visual component points to allow for easier placement.
 * SVG Must be fixed size **in millimeters**.  Example:
   ><svg
