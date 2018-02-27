@@ -11,12 +11,24 @@ To create a component you must follow 4 simple steps.
 
 ### 1) Create the component SVG
 
-* Use a CAD program to create your design.  Fusion 360 is a popular choice which is free for hobbyists.  
-  * Export from CAD to DXF
-  * Import DXF into Inkscape to add any non-precision extras like wording or no-precision-necessary parts.  
-  * Save as SVG
-  * NOTE:  Do not create designs initially from Inkscape.  Inkscape is inaccurate for hole measurements and does not always import well.  Use a CAD program to create initial design.
-* Colors are very important in JDeation Designer.  **Only Black colors are cut lines.**  Use Red to highlight component connection points or other visual component points to allow for easier placement.
+* Create the precision components (board dimensions and hole placements) for your design
+   * Log into the JDeation Designer (http://www.jdeation.com/site/publicdesigns) and select a "Blank Model"
+   * Click the "Insert Component" button and select "+Make Your Own Component"
+   * Enter the dimensions and hole placements for your component (in mm)
+   * This will generate the precision components of your design
+   
+* Download your component as a PDF and print the design to scale on your paper printer using Adobe Reader.  Set the component on the printout and verify exact hole placements.  Change your design if necessary.  Precision is very important for hole placement and overall board dimensions.   
+
+* Download your component as a SVG.  
+
+At this point,  your design can be opened in Inkscape and non-precision components such as power connection points,  pixel connection points, etc... can be added to the design
+   * Colors are very important in JDeation Designer.  **Only Black colors are cut lines.**  Use Red to highlight component connection points or other visual component points to allow for easier placement.
+   * Use stroke sizes of less than .5 millimeters.
+   * No embedded images or fonts.  Everything must be converted to Paths.
+   * Be careful not to change any precision components such as board dimensions or hole placements in Inkscape 
+
+If using a CAD program to create your initial design the following applies:
+
 * SVG Must be fixed size **in millimeters**.  Example:
   ><svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -34,8 +46,6 @@ To create a component you must follow 4 simple steps.
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="espixel_pops.svg">
 
-* Use stroke sizes of less than .5 millimeters.
-* No embedded images or fonts.  Everything must be converted to Paths.
 * When creating mounting holes use the following sized holes:
   * For 3mm screw / standoff - hole size should be 2.7 millimeters
 
