@@ -37,13 +37,13 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 16,Falcon F16v3 - v1.0,"Falcon 16 Port Pixel Controller  - F16V3 - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16v3_v1.jpg,falcon/svg/falcon-f16v3_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
-17,Falcon Differential Expansion v2,"Falcon Differential Expansion - v2.0
+17,Falcon Differential Expansion v2.0,"Falcon Differential Expansion - v2.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-expansion_v2_0.jpg,falcon/svg/falcon-differential-expansion_v2_0.svg,https://www.pixelcontroller.com/store/index.php?id_product=44&controller=product
-18,Falcon Differential Receiver v1,"Falcon Diiferential Receiver - v1.0
+18,Falcon Differential Receiver v1.0,"Falcon Diiferential Receiver - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-receiver_v1.jpg,falcon/svg/falcon-differential-receiver_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=45&controller=product
-19,Falcon F-8 Distro,"Falcon F8 - 8 Port Power Distribution screw holes
+19,Falcon F-8 Distro v1.0,"Falcon F8 v 1.02 - 8 Port Power Distribution screw holes
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f8-distro-v1_02.jpg,falcon/svg/falcon-f8-distro-v1_02.svg,https://www.pixelcontroller.com/store/index.php?id_product=46&controller=product
 20,Meanwell LRS-100,"Meanwell LRS-100 Series Power Supply
@@ -52,6 +52,11 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 21,Falcon F4v3 - v1.0,"Falcon 4 Port Pixel Controller  - F4V3 - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f4v3_v1.jpg,falcon/svg/falcon-f4v3_v1.svg,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
-22,Falcon F16v2 / F16v3 Expansion Board - v1.0,"Falcon F16v2 / F16v3 Expansion Board - v1.0
+22,Falcon F16v2 / F16V3 v1.0 Expansion Board - v1.0,"Falcon F16v2 / F16v3 Expansion Board - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-expansion_v1_0.jpg,falcon/svg/falcon-expansion_v1_0.svg,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
+23,Falcon F16v2 - v1.05,"Falcon 16 Port Pixel Controller  - Falcon F16v2 - v1.05<br>
+<br>
+Note: This is version 2 of the Falcon 16 Port Controller
+<br>
+Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16V2-v1_05.jpg,falcon/svg/falcon-f16V2-v1_05.svg,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
