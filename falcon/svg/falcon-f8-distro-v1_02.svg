@@ -150,9 +150,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3734375"
-     inkscape:cx="214.90818"
-     inkscape:cy="94.259283"
+     inkscape:zoom="5.6903969"
+     inkscape:cx="70.20264"
+     inkscape:cy="38.804863"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -243,7 +243,8 @@
     </g>
     <g
        id="g7055"
-       transform="translate(-3.678736,12.290671)">
+       transform="translate(-3.678736,12.290671)"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1">
       <rect
          y="269.14883"
          x="17.290194"
@@ -258,9 +259,10 @@
          style="fill:none;stroke:#ff0000;stroke-width:0.23863035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(0.2167716,0.37442367)"
-         id="g7019">
+         id="g7019"
+         style="fill:none;stroke:#ff0000;stroke-opacity:1">
         <ellipse
-           style="fill:#ffffff;fill-opacity:1;stroke:#f90000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4549-2-8"
            cx="-29.170195"
            cy="-275.49866"
@@ -280,9 +282,10 @@
       </g>
       <g
          id="g7019-4"
-         transform="translate(-9.0058747,0.37442367)">
+         transform="translate(-9.0058747,0.37442367)"
+         style="fill:none;stroke:#ff0000;stroke-opacity:1">
         <ellipse
-           style="fill:#ffffff;fill-opacity:1;stroke:#f90000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4549-2-8-0"
            cx="-29.170195"
            cy="-275.49866"
