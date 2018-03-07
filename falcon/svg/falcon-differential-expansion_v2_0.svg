@@ -68,9 +68,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3734375"
-     inkscape:cx="187.75249"
-     inkscape:cy="71.712435"
+     inkscape:zoom="1.4225992"
+     inkscape:cx="75.110325"
+     inkscape:cy="181.25109"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,7 +135,7 @@
     </g>
     <g
        transform="matrix(0,-0.26458333,0.26458333,0,-242.26103,285.70163)"
-       style="stroke:#000000;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-opacity:1;fill:none"
        id="g5656">
       <rect
          transform="rotate(179.81239)"
@@ -144,7 +144,7 @@
          height="50.078739"
          width="48"
          id="rect4539"
-         style="fill:#ffffff;fill-opacity:1;stroke:#f90000;stroke-width:0.94488192;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.94488192;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <ellipse
          transform="rotate(179.81239)"
          ry="8.4265966"
@@ -152,7 +152,7 @@
          cy="-1316.0532"
          cx="-145.54318"
          id="path4549"
-         style="fill:#ffffff;fill-opacity:1;stroke:#f90000;stroke-width:0.94488192;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.94488192;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <ellipse
          transform="rotate(179.81239)"
          ry="8.4265966"
@@ -160,7 +160,7 @@
          cy="-1316.0532"
          cx="-123.11654"
          id="path4549-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:#f90000;stroke-width:0.94488192;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.94488192;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path5614"
@@ -2320,10 +2320,8 @@
          id="rect5315-0"
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    
-	<g
-       aria-label="Falcon Differential Expansion v2.0
-Screw Size = M3"
+    <g
+       aria-label="Falcon Differential Expansion v2.0 Screw Size = M3"
        transform="matrix(0.26458333,0,0,0.26458333,-7.1345183,227.47224)"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
        id="flowRoot8956">
