@@ -236,8 +236,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50722656"
-     inkscape:cx="1315.3768"
-     inkscape:cy="648.43481"
+     inkscape:cx="1323.1557"
+     inkscape:cy="656.77608"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -310,7 +310,7 @@
     <g
        id="g6137"
        inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,476.27816,-79.031473)">
+       transform="matrix(0.26458333,0,0,0.26458333,476.80733,-79.031473)">
       <path
          id="path6131"
          style="fill:none;stroke:#000000"
@@ -331,7 +331,7 @@
     <g
        id="g6137-0"
        inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,611.27816,-79.031473)">
+       transform="matrix(0.26458333,0,0,0.26458333,611.80733,-79.031473)">
       <path
          id="path6131-7"
          style="fill:none;stroke:#000000"
@@ -351,7 +351,7 @@
     <g
        id="g6137-07"
        inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,476.19313,-65.02507)">
+       transform="matrix(0.26458333,0,0,0.26458333,476.7223,-65.02507)">
       <path
          id="path6131-1"
          style="fill:none;stroke:#000000"
@@ -372,7 +372,7 @@
     <g
        id="g6137-0-9"
        inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,611.19312,-65.02507)">
+       transform="matrix(0.26458333,0,0,0.26458333,611.72229,-65.02507)">
       <path
          id="path6131-7-9"
          style="fill:none;stroke:#000000"
@@ -1378,7 +1378,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 472.69494,206.47447 6.67957,-0.006 v 0"
+       d="m 473.22411,206.47447 6.67957,-0.006 v 0"
        id="path6895"
        inkscape:connector-curvature="0" />
     <path
@@ -1394,7 +1394,7 @@
     <g
        id="g7065"
        inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,340.80648,-0.67954248)">
+       transform="matrix(-0.26458333,0,0,-0.26458333,1.081481,244.07046)">
       <path
          id="path7033"
          style="fill:none;stroke:#000000"
