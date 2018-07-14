@@ -4826,6 +4826,80 @@
        id="*MODEL_SPACE-25-9" />
     <symbol
        id="*PAPER_SPACE-63-7" />
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX-421">
+      <path
+         id="path10943"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-687"
+       height="8">
+      <path
+         id="path10946"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path10948"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path10950"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX-07">
+      <path
+         id="path11668"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-50"
+       height="8">
+      <path
+         id="path11671"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path11673"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path11675"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -4835,8 +4909,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.11496338"
-     inkscape:cx="5391.8554"
-     inkscape:cy="2572.1485"
+     inkscape:cx="4132.6199"
+     inkscape:cy="2942.6109"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -18499,7 +18573,7 @@
     </g>
     <g
        id="g9223"
-       transform="translate(2478.6466,-918.98844)">
+       transform="translate(2501.6612,-923.59136)">
       <g
          transform="translate(0,1)"
          inkscape:label="Construction Lines"
@@ -19277,7 +19351,7 @@
     </g>
     <g
        id="g9223-1"
-       transform="translate(2478.6466,-618.98844)">
+       transform="translate(2501.6612,-623.59136)">
       <g
          transform="translate(0,1)"
          inkscape:label="Construction Lines"
@@ -20053,5 +20127,13 @@
          id="layer1-42-4"
          inkscape:label="Layer 1" />
     </g>
+    <g
+       id="g10955"
+       inkscape:label="0"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-943)" />
+    <g
+       id="g11680"
+       inkscape:label="0"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-943)" />
   </g>
 </svg>
