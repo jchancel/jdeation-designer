@@ -15,7 +15,7 @@
    version="1.1"
    id="svg4507"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="pixel_hole_12mm.svg">
+   sodipodi:docname="pixel_hole.svg">
   <defs
      id="defs4501" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8451985"
-     inkscape:cx="84.669454"
-     inkscape:cy="21.549496"
+     inkscape:zoom="4.746875"
+     inkscape:cx="41.904548"
+     inkscape:cy="72.478822"
      inkscape:document-units="mm"
-     inkscape:current-layer="g14"
+     inkscape:current-layer="g5094"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,23 +79,6 @@
          cx="39.111797"
          id="path5056-1"
          style="fill:none;fill-opacity:1;stroke:#f80000;stroke-width:0.10060944;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(263.2382,319.10654)"
-       id="g14">
-      <text
-         xml:space="preserve"
-         font-size="40"
-         font-style="normal"
-         font-weight="normal"
-         style="font-style:normal;font-weight:normal;font-size:40px;font-family:'Times New Roman';white-space:pre;opacity:1;fill:#0000ff;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;"
-         id="nodenumber"
-         x="-18.226614"
-         y="-38.592068"><tspan
-           x="-246.54663"
-           y="-26.022064"
-           id="tspan10"
-           style="font-size:5.64444447px;fill:#0000ff;fill-opacity:1;">1</tspan></text>
     </g>
   </g>
 </svg>
