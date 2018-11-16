@@ -14,7 +14,7 @@
    viewBox="0 0 146 174"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="cg500_bottom_plate_v1.svg">
   <defs
      id="defs2">
@@ -152,10 +152,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2058751"
-     inkscape:cx="431.89108"
+     inkscape:cx="286.35362"
      inkscape:cy="321.91608"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6058"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -338,56 +338,6 @@
          id="path6036"
          style="fill:none;stroke:#000000"
          d="m 493.79528,1754.6958 a 6.4252,6.4252 0 1 0 -12.8504,0 6.4252,6.4252 0 1 0 12.8504,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6038"
-         style="fill:none;stroke:#000000"
-         d="m 62.625262,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6040"
-         style="fill:none;stroke:#000000"
-         d="M 107.97959,1742.6835 H 92.861483 v 15.1181 h 15.118107 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6042"
-         style="fill:none;stroke:#000000"
-         d="m 153.33392,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6044"
-         style="fill:none;stroke:#000000"
-         d="m 198.68825,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6046"
-         style="fill:none;stroke:#000000"
-         d="m 244.04258,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6048"
-         style="fill:none;stroke:#000000"
-         d="m 289.39692,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6050"
-         style="fill:none;stroke:#000000"
-         d="m 334.75125,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6052"
-         style="fill:none;stroke:#000000"
-         d="m 380.10558,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6054"
-         style="fill:none;stroke:#000000"
-         d="M 425.45991,1742.6835 H 410.3418 v 15.1181 h 15.11811 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path6056"
-         style="fill:none;stroke:#000000"
-         d="m 470.81424,1742.6835 h -15.11811 v 15.1181 h 15.11811 z"
          inkscape:connector-curvature="0" />
     </g>
     <g
