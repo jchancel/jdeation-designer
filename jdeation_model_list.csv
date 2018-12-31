@@ -1,15 +1,17 @@
-design_id,width,height,svg_filename,fabricate_url,public,description,featured,featured_sort
-CG1500SL,246,246,models/cg1500_bottom_plate_v1.svg,http://shop.jdeation.com/cg1500-single-level-kit,Y,Basic CG1500 Single Level Mounting Plate - BLANK,Y,10
-DIYCOMPACTCASE_4-6,400,300,models/compact_case_noholes_4-5thick_v3.svg,http://shop.jdeation.com/diy-compact-case,Y,DIY Compact Case - 3/16 Thickness  - BLANK,Y,10
-CG1500DL,490,246,models/cg1500_double_v1.svg,http://shop.jdeation.com/cg1500-doubledecker-fullkit,Y,CG1500 Double Decker Mounting Plate Set - BLANK,Y,10
-CG1500DL-FULL,490,246,models/cg1500_double_full_top_v1.svg,http://shop.jdeation.com/cg1500-doubledecker-fullkit,Y,CG1500 Double Decker Mounting Plate Set w/ Full Size Top Shelf - BLANK,Y,10
-CG500SL,145,177,models/cg500_bottom_plate_v1.svg,http://shop.jdeation.com/cg500-kit,Y,CG500 Single Level Mounting Plate - BLANK,Y,10
-BLANK,300,200,models/blank.svg,http://shop.jdeation.com,Y,Blank Model - Used for Making New Components,Y,10
-MTM30SL,279,147,models/mtm_30_plate_v1.svg,KIT-http://shop.jdeation.com/mtm-30-single,Y,MTM 30 Single Level Mounting Plate - BLANK,Y,10
-MTM30DL,278,292,models/mtm_30_double_plate_v1.svg,KIT-http://shop.jdeation.com/mtm-30-double-decker,Y,MTM 30 Double Level Mounting Plate - BLANK,Y,10
-MTMACR418ER,485,235,models/mtm_acr4_18_v1.svg,KIT-http://shop.jdeation.com/mtm-acr4-18-dd-easy-remove,Y,MTM ACR4-18 Plates w/ Easy Remove PS - BLANK,Y,10
-MTMACR872DL,592,351,models/mtm_acr8_72_v1.svg,KIT-http://shop.jdeation.com/mtm-acr8-72-dd-easy-remove,Y,MTM ACR8-72 Double Level Mounting Plate w/ Easy Remove Power Supplies - BLANK,Y,10
-BUDBOX32026DL,523,381,models/bud_32026.svg,http://shop.jdeation.com/budbox-32026-fullkit,Y,Bud Box 32026 Double Decker Mounting Plate Set - BLANK,Y,10
-MTMACR418DL,622,222,models/mtm_acr4_18_dd_v1.svg,http://shop.jdeation.com,Y,MTM ACR4-18 Double Level Mounting Plate - BLANK,Y,10
-MTMACR418DLER,650,223,models/mtm_acr4_18_dd_er_v2.svg,http://shop.jdeation.com/mtm-acr4-18-dd-top-remove,Y,MTM ACR4-18 Full Double Decker w/ Top Screw Power Supplies - BLANK,Y,10
-MTMACR872DLFT,370,654,models/mtm_acr8_72_full_top_v1.svg,KIT-http://shop.jdeation.com/mtm-acr-8-72-double-decker-full-top-mounting-plate,Y,MTM ACR8-72 Double Level Mounting Plate w/ Full Top & Easy Remove Power - BLANK,Y,10
+design_id,product_id,width,height,svg_filename,fabricate_url,public,description,featured,featured_sort
+CG1500SL,MOUNTING_PLATE,246,246,models/cg1500_bottom_plate_v1.svg,http://shop.jdeation.com/cg1500-single-level-kit,Y,Basic CG1500 Single Level Mounting Plate - BLANK,Y,10
+DIYCOMPACTCASE_4-6,MOUNTING_PLATE,400,300,models/compact_case_noholes_4-5thick_v3.svg,http://shop.jdeation.com/diy-compact-case,Y,DIY Compact Case - 3/16 Thickness  - BLANK,Y,10
+CG1500DL,MOUNTING_PLATE,490,246,models/cg1500_double_v1.svg,http://shop.jdeation.com/cg1500-doubledecker-fullkit,Y,CG1500 Double Decker Mounting Plate Set - BLANK,Y,10
+CG1500DL-FULL,MOUNTING_PLATE,490,246,models/cg1500_double_full_top_v1.svg,http://shop.jdeation.com/cg1500-doubledecker-fullkit,Y,CG1500 Double Decker Mounting Plate Set w/ Full Size Top Shelf - BLANK,Y,10
+CG500SL,MOUNTING_PLATE,145,177,models/cg500_bottom_plate_v1.svg,http://shop.jdeation.com/cg500-kit,Y,CG500 Single Level Mounting Plate - BLANK,Y,10
+BLANK,MOUNTING_PLATE,300,200,models/blank.svg,http://shop.jdeation.com,Y,Blank Model - Used for Making New Components,Y,10
+MTM30SL,MOUNTING_PLATE,279,147,models/mtm_30_plate_v1.svg,KIT-http://shop.jdeation.com/mtm-30-single,Y,MTM 30 Single Level Mounting Plate - BLANK,Y,10
+MTM30DL,MOUNTING_PLATE,278,292,models/mtm_30_double_plate_v1.svg,KIT-http://shop.jdeation.com/mtm-30-double-decker,Y,MTM 30 Double Level Mounting Plate - BLANK,Y,10
+MTMACR418ER,MOUNTING_PLATE,485,235,models/mtm_acr4_18_v1.svg,KIT-http://shop.jdeation.com/mtm-acr4-18-dd-easy-remove,Y,MTM ACR4-18 Plates w/ Easy Remove PS - BLANK,Y,10
+MTMACR872DL,MOUNTING_PLATE,592,351,models/mtm_acr8_72_v1.svg,KIT-http://shop.jdeation.com/mtm-acr8-72-dd-easy-remove,Y,MTM ACR8-72 Double Level Mounting Plate w/ Easy Remove Power Supplies - BLANK,Y,10
+BUDBOX32026DL,MOUNTING_PLATE,523,381,models/bud_32026.svg,http://shop.jdeation.com/budbox-32026-fullkit,Y,Bud Box 32026 Double Decker Mounting Plate Set - BLANK,Y,10
+MTMACR418DL,MOUNTING_PLATE,622,222,models/mtm_acr4_18_dd_v1.svg,http://shop.jdeation.com,Y,MTM ACR4-18 Double Level Mounting Plate - BLANK,Y,10
+MTMACR418DLER,MOUNTING_PLATE,650,223,models/mtm_acr4_18_dd_er_v2.svg,http://shop.jdeation.com/mtm-acr4-18-dd-top-remove,Y,MTM ACR4-18 Full Double Decker w/ Top Screw Power Supplies - BLANK,Y,10
+MTMACR872DLFT,MOUNTING_PLATE,370,654,models/mtm_acr8_72_full_top_v1.svg,KIT-http://shop.jdeation.com/mtm-acr-8-72-double-decker-full-top-mounting-plate,Y,MTM ACR8-72 Double Level Mounting Plate w/ Full Top & Easy Remove Power - BLANK,Y,10
+2x2,CORO_PROP,610,610,models/coro/2x2_blank_v1.svg,n/a,Y,2ft by 2ft Blank Coro Design,Y,10
+4x4,CORO_PROP,1220,1220,models/coro/4x4_blank_v1.svg,n/a,Y,4ft by 4ft Blank Coro Design,Y,10
