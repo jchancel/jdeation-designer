@@ -46,9 +46,6 @@ If using a CAD program to create your initial design the following applies:
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="espixel_pops.svg">
 
-* When creating mounting holes use the following sized holes:
-  * For 3mm screw / standoff - hole size should be 2.7 millimeters
-
 ### 2) Create a photo
 
 Take a photo of your component.  Width / Height not important as image will be scaled,  but please
