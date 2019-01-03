@@ -27,25 +27,6 @@ At this point,  your design can be opened in Inkscape and non-precision componen
    * No embedded images or fonts.  Everything must be converted to Paths.
    * Be careful not to change any precision components such as board dimensions or hole placements in Inkscape 
 
-If using a CAD program to create your initial design the following applies:
-
-* SVG Must be fixed size **in millimeters**.  Example:
-  ><svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   **width="35mm"
-   height="26mm"
-   viewBox="0 0 35 26"**
-   version="1.1"
-   id="svg7655"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="espixel_pops.svg">
-
 ### 2) Create a photo
 
 Take a photo of your component.  Width / Height not important as image will be scaled,  but please
