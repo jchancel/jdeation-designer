@@ -569,8 +569,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48150261"
-     inkscape:cx="743.7039"
-     inkscape:cy="843.71427"
+     inkscape:cx="935.82603"
+     inkscape:cy="1165.633"
      inkscape:document-units="mm"
      inkscape:current-layer="g5785"
      showgrid="false"
@@ -587,7 +587,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -998,19 +998,7 @@
        cx="232.32368"
        cy="-69.541801"
        r="4.765214" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5461"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
-         id="flowRegion5463"
-         style="font-size:13.33333333px;"><rect
-           id="rect5465"
-           width="133.83952"
-           height="80.697357"
-           x="-484.18414"
-           y="497.21866"
-           style="font-size:13.33333333px;" /></flowRegion><flowPara
-         id="flowPara5467" /></flowRoot>    <g
+    <g
        aria-label="#10 5&quot; Bolt"
        transform="matrix(0.26458333,0,0,0.26458333,154.22953,-237.36876)"
        style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
