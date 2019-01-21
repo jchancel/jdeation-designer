@@ -93,5 +93,5 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 43,MOUNTING_PLATE,JBoard Diff Receiver,JBoard Differential Receiver designed by Jeremy McElroy,/controllers/,Controllers,controllers/image/jboard-diff-to-port-v1.jpg,controllers/svg/jboard-diff-to-port-v1.svg,N,N,https://jboards.ecwid.com/
 44,MOUNTING_PLATE,JBoard ESPixNode,JBoard ESPixNode Wireless Pixel Controller designed by Jeremy McElroy,/controllers/,Controllers,controllers/image/jboard_espixnode_v1.jpg,controllers/svg/jboard_espixnode_v1.svg,N,N,https://jboards.ecwid.com/
 45,MOUNTING_PLATE,LOR Pixcon 16,LOR Pixcon 16 - 16 Port pixel controller,/controllers/,Controllers,controllers/image/pixcon-16.jpg,controllers/svg/pixcon-16.svg,N,N,http://www1.lightorama.com/pixcon16/
-46,MOUNTING_PLATE,PG7 Cable Gland,PG7 Cable Gland,/misc/,Misc,misc/image/pg7-gland.jpg,misc/svg/pg7-gland.svg,N,N,https://www.adafruit.com/product/762
+46,MOUNTING_PLATE,PG7 Cable Gland,PG7 Cable Gland - ,/misc/,Misc,misc/image/pg7-gland.jpg,misc/svg/pg7-gland.svg,N,N,https://www.adafruit.com/product/762
 47,MOUNTING_PLATE,PG9 Cable Gland,PG9 Cable Gland,/misc/,Misc,misc/image/pg9-gland.jpg,misc/svg/pg9-gland.svg,N,N,https://www.adafruit.com/product/761
