@@ -43,7 +43,7 @@ Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-expansion_v2_0
 18,MOUNTING_PLATE,Falcon Differential Receiver v1.0,"Falcon Diiferential Receiver - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-receiver_v1.jpg,falcon/svg/falcon-differential-receiver_v1.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=45&controller=product
-19,MOUNTING_PLATE,Falcon F-8 Distro v1.0,"Falcon F8 v 1.02 - 8 Port Power Distribution screw holes
+19,MOUNTING_PLATE,Falcon F-8 Distro v1.02,"Falcon F8 v 1.02 - 8 Port Power Distribution screw holes
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f8-distro-v1_02.jpg,falcon/svg/falcon-f8-distro-v1_02.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=46&controller=product
 20,MOUNTING_PLATE,Meanwell LRS-100,"Meanwell LRS-100 Series Power Supply
@@ -96,3 +96,5 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 46,MOUNTING_PLATE,PG7 Cable Gland,PG7 Cable Gland - ,/misc/,Misc,misc/image/pg7-gland.jpg,misc/svg/pg7-gland.svg,N,N,https://www.adafruit.com/product/762
 47,MOUNTING_PLATE,PG9 Cable Gland,PG9 Cable Gland,/misc/,Misc,misc/image/pg9-gland.jpg,misc/svg/pg9-gland.svg,N,N,https://www.adafruit.com/product/761
 48,MOUNTING_PLATE,JBoard Port To Diff,JBoard Port To Diff Board designed by Jeremy McElroy,/controllers/,Controllers,controllers/image/jboard-port-to-diff.jpg,controllers/svg/jboard-port-to-diff.svg,N,N,https://jboards.ecwid.com/
+49,MOUNTING_PLATE,Falcon F-8 Distro v1.0 Red Board,"Falcon F8 v 1.0 - 8 Port Power Distribution - Red Board
+",/falcon/,Falcon,falcon/image/falcon-f8-distro-1_0_red.jpg,falcon/svg/falcon-f8-distro-1_0_red.svg,N,N,https://www.pixelcontroller.com
