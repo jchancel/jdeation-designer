@@ -1,7 +1,7 @@
 component_id,product_id,short_description,long_description,directory,category,image_name,svg_name,allow_resize,allow_background,purchase_url
 1,MOUNTING_PLATE,Meanwell LRS-350,"Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
 <br>
-Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,N,N,http://www.amazon.com
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,N,N,http://www.amazon.com
 2,MOUNTING_PLATE,Raspberry PI 3 Model B,"Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
 <br>
 Screw Size = M3
@@ -33,7 +33,7 @@ Screw Size = M3",/controllers/,Controllers,controllers/image/E6804-Measured.jpg,
 14,MOUNTING_PLATE,Renard Shop SR32 Combo,32 Channel Renard Controller - NOT VERIFIED,/controllers/,Controllers,controllers/image/Renard_Shop_SR32_Combo.jpg,controllers/svg/Renard_Shop_SR32_Combo.svg,N,N,https://www.doityourselfchristmas.com/wiki/index.php?title=Simple_Renard_32_Combo
 15,MOUNTING_PLATE,Meanwell LRS-75,"Meanwell LRS-75 Series Power Supply
 <br>
-Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/meanwell_75_series.jpg,power/svg/meanwell_75_series.svg,N,N,http://www.amazon.com
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_75_series.jpg,power/svg/meanwell_75_series.svg,N,N,http://www.amazon.com
 16,MOUNTING_PLATE,Falcon F16v3 - v1.0,"Falcon 16 Port Pixel Controller  - F16V3 - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16v3_v1.jpg,falcon/svg/falcon-f16v3_v1.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
@@ -48,7 +48,7 @@ Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-differential-receiver_v1.jp
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f8-distro-v1_02.jpg,falcon/svg/falcon-f8-distro-v1_02.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=46&controller=product
 20,MOUNTING_PLATE,Meanwell LRS-100,"Meanwell LRS-100 Series Power Supply
 <br>
-Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/meanwell_100_series.jpg,power/svg/meanwell_100_series.svg,N,N,http://www.amazon.com
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_100_series.jpg,power/svg/meanwell_100_series.svg,N,N,http://www.amazon.com
 21,MOUNTING_PLATE,Falcon F4v3 - v1.0,"Falcon 4 Port Pixel Controller  - F4V3 - v1.0
 <br>
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f4v3_v1.jpg,falcon/svg/falcon-f4v3_v1.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
@@ -62,7 +62,7 @@ Note: This is version 2 of the Falcon 16 Port Controller
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16V2-v1_05.jpg,falcon/svg/falcon-f16V2-v1_05.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
 24,MOUNTING_PLATE,Meanwell LRS-350 Side Mount,"This is for side mount of the Meanwell LRS-350 powersupply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
 <br>
-Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350_side.svg,N,N,http://www.amazon.com
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350_side.svg,N,N,http://www.amazon.com
 25,MOUNTING_PLATE,Dc12v Heat Cool Temp Thermostat,Temperature Control Switch - 12v,/misc/,Misc,misc/image/temp_control_switch.jpg,misc/svg/temp_control_switch.svg,N,N,https://www.amazon.com/gp/product/B00GWFK7FA/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
 26,MOUNTING_PLATE,RenardPlus 6 Port Distro,RenardPlus 6 Port Power Distribution unit.,/power/,Power And Fusing,power/image/renard_plus_dc_distribution_board.jpg,power/svg/renard_plus_dc_distribution_board.svg,N,N,http://www.renard-plus.com
 27,MOUNTING_PLATE,Falcon F48 Diff Controller - v1.0,"Falcon F48 Differential Controler - F48 - v1.0
@@ -78,10 +78,10 @@ Screw Size = M3",/power/,Power And Fusing,power/image/cfol_power_distro_8x2_v1-1
 31,MOUNTING_PLATE,Crimped Wire Slot,Create a slot which can be used to pass crimped wires from top to bottom plates in double decker desigs,/misc/,Misc,misc/image/cable_hole.jpg,misc/svg/cable_hole.svg,N,N,https://www.amazon.com
 32,MOUNTING_PLATE,Meanwell RS-15,"Meanwell RS-15 Series Power Supply
 <br>
-Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/meanwell_RS_15_series.jpg,power/svg/meanwell_RS_15_series.svg,N,N,http://www.amazon.com
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_RS_15_series.jpg,power/svg/meanwell_RS_15_series.svg,N,N,http://www.amazon.com
 33,MOUNTING_PLATE,Meanwell LRS-50,"Meanwell LRS-50 Series Power Supply
 <br>
-Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Power And Fusing,power/image/meanwell_50_series.jpg,power/svg/meanwell_50_series.svg,N,N,http://www.amazon.com
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_50_series.jpg,power/svg/meanwell_50_series.svg,N,N,http://www.amazon.com
 34,MOUNTING_PLATE,Buck Converter w/ LED Display,Buck Converter w/ LED Display commonly seen on eBay,/power/,Power And Fusing,power/image/buck_converter_display.jpg,power/svg/buck_converter_display.svg,N,N,https://www.ebay.com/itm/Lot-DC-to-DC-LM2596-Buck-Converter-Voltage-Regulator-Power-Module-w-LED-Display/183202145133?var=690479509849&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D52935%26meid%3Db2de7b834caf459598b671f8d36e6f15%26pid%3D100005%26rk%3D2%26rkt%3D3%26sd%3D183202145133%26itm%3D690479509849&_trksid=p2047675.c100005.m1851
 35,CORO_PROP,Pixel Hole - 12mm - 1 in spacing,Coro Pixel Hole for 12mm pixel - 1in Spacing,/coro/,Coro,coro/image/pixel_hole_12mm.jpg,coro/svg/pixel_hole_12mm_1in.svg,N,N,http://www.amazon.com
 36,CORO_PROP,Candy Cane,Candy Cane Cutout,/shapes/,Shapes,shapes/image/candycane_v1.jpg,shapes/svg/candycane_v1.svg,Y,Y,http://www.amazon.com
