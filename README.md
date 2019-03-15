@@ -67,7 +67,7 @@ model to the csv file.  **All Fields are Mandatory.**
 
 #3 Initiate Pull Request
 
-Initiate a GitHub pull request and we will pull your design into the solution.  Upon the next JDeation Designer build your model will be part of the solution.
+Initiate a GitHub pull request and we will pull your design into the solution.  Upon the next JDeation Designer build your model will be part of the solution!
 
 
 
