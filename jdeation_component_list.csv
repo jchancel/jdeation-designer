@@ -82,7 +82,11 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 33,MOUNTING_PLATE,Meanwell LRS-50,"Meanwell LRS-50 Series Power Supply
 <br>
 Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_50_series.jpg,power/svg/meanwell_50_series.svg,N,N,http://www.amazon.com
-34,MOUNTING_PLATE,Buck Converter w/ LED Display,Buck Converter w/ LED Display commonly seen on eBay,/power/,Power And Fusing,power/image/buck_converter_display.jpg,power/svg/buck_converter_display.svg,N,N,https://www.ebay.com/itm/Lot-DC-to-DC-LM2596-Buck-Converter-Voltage-Regulator-Power-Module-w-LED-Display/183202145133?var=690479509849&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D52935%26meid%3Db2de7b834caf459598b671f8d36e6f15%26pid%3D100005%26rk%3D2%26rkt%3D3%26sd%3D183202145133%26itm%3D690479509849&_trksid=p2047675.c100005.m1851
+34,MOUNTING_PLATE,Buck Converter w/ LED Display,"Buck Converter w/ LED Display commonly seen on eBay
+
+5/27/19 UPDATE - We have had some reports that the variant on eBay has changed and the part no longer fits with the Jdeation design.  We are working to get the new design into the designer.  
+
+As with all components,  it is important to print your deisng to scale to verify all hole placements work your your components before starting your design.",/power/,Power And Fusing,power/image/buck_converter_display.jpg,power/svg/buck_converter_display.svg,N,N,https://www.ebay.com/itm/Lot-DC-to-DC-LM2596-Buck-Converter-Voltage-Regulator-Power-Module-w-LED-Display/183202145133?var=690479509849&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D52935%26meid%3Db2de7b834caf459598b671f8d36e6f15%26pid%3D100005%26rk%3D2%26rkt%3D3%26sd%3D183202145133%26itm%3D690479509849&_trksid=p2047675.c100005.m1851
 35,CORO_PROP,Pixel Hole - 12mm - 1 in spacing,Coro Pixel Hole for 12mm pixel - 1in Spacing,/coro/,Coro,coro/image/pixel_hole_12mm.jpg,coro/svg/pixel_hole_12mm_1in.svg,N,N,http://www.amazon.com
 36,CORO_PROP,Candy Cane,Candy Cane Cutout,/shapes/,Shapes,shapes/image/candycane_v1.jpg,shapes/svg/candycane_v1.svg,Y,Y,http://www.amazon.com
 37,CORO_PROP,Star,Star Cutout,/shapes/,Shapes,shapes/image/star_v1.jpg,shapes/svg/star_v1.svg,Y,Y,http://www.amazon.com
