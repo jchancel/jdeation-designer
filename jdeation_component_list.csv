@@ -112,3 +112,5 @@ As with all components,  it is important to print your deisng to scale to verify
 5/27/19 UPDATE - There are 2 variants of this board on ebay now that look similar but are slightly different sizes.  This version has 1 button on the right of the display.
 <br><br>
 As with all components,  it is important to print your deisng to scale to verify all hole placements work your your components before starting your design.",/power/,Power And Fusing,power/image/buck_converter_display_newversion.jpg,power/svg/buck_converter_display_newversion.svg,N,N,https://www.ebay.com/itm/DC-DC-Digital-Display-Step-Down-Boost-Buck-Board-Converter-Power-Module/232413443004?hash=item361cebb3bc:g:D4oAAOSw5RpbdFVC
+57,MOUNTING_PLATE,Falcon Smart Receiver v1.0,"Falcon Smart Receiver - v1.0
+Different from the older falcon differential receivers, the new smart receivers can be daisy chained together",/falcon/,Falcon,falcon/image/falcon-smart-receiver_v1.jpg,falcon/svg/falcon-smart-receiver_v1.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=56&controller=product
