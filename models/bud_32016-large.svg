@@ -780,7 +780,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.80332979"
-     inkscape:cx="383.77084"
+     inkscape:cx="661.87479"
      inkscape:cy="552.47767"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1479,27 +1479,7 @@
          id="path1622"
          inkscape:connector-curvature="0" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1528"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion1530"><rect
-           id="rect1532"
-           width="146.9967"
-           height="26.406593"
-           x="169.0022"
-           y="933.27649" /></flowRegion><flowPara
-         id="flowPara1534" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1536"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion1538"><rect
-           id="rect1540"
-           width="44.01099"
-           height="76.579124"
-           x="162.84067"
-           y="908.63037" /></flowRegion><flowPara
-         id="flowPara1542" /></flowRoot>    <g
+    <g
        id="g1643"
        inkscape:label="0"
        transform="matrix(0.26458333,0,0,0.26458333,337.51587,0.10412666)">
