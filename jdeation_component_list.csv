@@ -1,7 +1,8 @@
 component_id,product_id,short_description,long_description,directory,category,image_name,svg_name,allow_resize,allow_background,purchase_url
 1,MOUNTING_PLATE,Meanwell LRS-350,"Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
 <br>
-Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,N,N,http://www.amazon.com
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.
+",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,N,N,http://www.amazon.com
 2,MOUNTING_PLATE,Raspberry PI 3 Model B,"Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
 <br>
 Screw Size = M3
@@ -62,7 +63,8 @@ Note: This is version 2 of the Falcon 16 Port Controller
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16V2-v1_05.jpg,falcon/svg/falcon-f16V2-v1_05.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
 24,MOUNTING_PLATE,Meanwell LRS-350 Side Mount,"This is for side mount of the Meanwell LRS-350 powersupply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
 <br>
-Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350_side.svg,N,N,http://www.amazon.com
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.
+",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350_side.svg,N,N,http://www.amazon.com
 25,MOUNTING_PLATE,Dc12v Heat Cool Temp Thermostat,Temperature Control Switch - 12v,/misc/,Misc,misc/image/temp_control_switch.jpg,misc/svg/temp_control_switch.svg,N,N,https://www.amazon.com/gp/product/B00GWFK7FA/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
 26,MOUNTING_PLATE,RenardPlus 6 Port Distro,RenardPlus 6 Port Power Distribution unit.,/power/,Power And Fusing,power/image/renard_plus_dc_distribution_board.jpg,power/svg/renard_plus_dc_distribution_board.svg,N,N,http://www.renard-plus.com
 27,MOUNTING_PLATE,Falcon F48 Diff Controller - v1.0,"Falcon F48 Differential Controler - F48 - v1.0
@@ -121,3 +123,4 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 60,MOUNTING_PLATE,Meanwell LRS-35,"Meanwell LRS-35 Series Power Supply
 <br>
 Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_LRS_35.jpg,power/svg/meanwell_LRS_35.svg,N,N,http://www.amazon.com
+61,MOUNTING_PLATE,Kulp Lights F8-B+ v3.0,Kulp Lights F8-B+ v3.0 BBB Cape,/controllers/,Controllers,controllers/image/kulp_lights_f8-b+_v3.0.jpeg,controllers/svg/kulp_lights_f8-b+_v3.0.svg,N,N,https://kulplights.com/product/f8-b/
