@@ -115,3 +115,9 @@ As with all components,  it is important to print your deisng to scale to verify
 57,MOUNTING_PLATE,Falcon Smart Receiver v1.0,"Falcon Smart Receiver - v1.0
 Different from the older falcon differential receivers, the new smart receivers can be daisy chained together",/falcon/,Falcon,falcon/image/falcon-smart-receiver_v1.jpg,falcon/svg/falcon-smart-receiver_v1.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=56&controller=product
 58,MOUNTING_PLATE,JBoard 4 Port Distro,JBoard 4 Port Distro designed by Jeremy McElroy,/power/,Power And Fusing,power/image/jboard-power-distro-4.jpg,power/svg/jboard-power-distro-4.svg,N,N,https://jboards.ecwid.com/
+59,MOUNTING_PLATE,Meanwell LRS-150,"Meanwell LRS-150 Series Power Supply
+<br>
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_LRS_150.jpg,power/svg/meanwell_LRS_150.svg,N,N,http://www.amazon.com
+60,MOUNTING_PLATE,Meanwell LRS-35,"Meanwell LRS-35 Series Power Supply
+<br>
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_LRS_35.jpg,power/svg/meanwell_LRS_35.svg,N,N,http://www.amazon.com
