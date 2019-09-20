@@ -1294,29 +1294,7 @@
        x="4.5117517"
        y="224.28589"
        ry="2.5595908" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1528"
-       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,17)"><flowRegion
-         id="flowRegion1530"><rect
-           id="rect1532"
-           width="146.9967"
-           height="26.406593"
-           x="169.0022"
-           y="933.27649" /></flowRegion><flowPara
-         id="flowPara1534" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1536"
-       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,17)"><flowRegion
-         id="flowRegion1538"><rect
-           id="rect1540"
-           width="44.01099"
-           height="76.579124"
-           x="162.84067"
-           y="908.63037" /></flowRegion><flowPara
-         id="flowPara1542" /></flowRoot>    <g
+    <g
        aria-label="Top Plate"
        transform="matrix(0.26458333,0,0,0.26458333,27.382264,-94.043989)"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
