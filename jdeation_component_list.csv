@@ -1,7 +1,8 @@
 component_id,product_id,short_description,long_description,directory,category,image_name,svg_name,allow_resize,allow_background,purchase_url
 1,MOUNTING_PLATE,Meanwell LRS-350,"Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
 <br>
-Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,N,N,http://www.amazon.com
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.
+",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350.svg,N,N,http://www.amazon.com
 2,MOUNTING_PLATE,Raspberry PI 3 Model B,"Raspberry PI Model 3 which is the latest Raspberry PI model.  NOTE:  All the raspberry PI models have different mounting hole placements.
 <br>
 Screw Size = M3
@@ -62,7 +63,8 @@ Note: This is version 2 of the Falcon 16 Port Controller
 Screw Size = M3",/falcon/,Falcon,falcon/image/falcon-f16V2-v1_05.jpg,falcon/svg/falcon-f16V2-v1_05.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product
 24,MOUNTING_PLATE,Meanwell LRS-350 Side Mount,"This is for side mount of the Meanwell LRS-350 powersupply.  Designed for Meanwell LRS-350,  but most other 350w standard size power supplies have same hole layouts.
 <br>
-Hole size is 4mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350_side.svg,N,N,http://www.amazon.com
+Hole size is 4mm - designed for screws to pass through material and into power supply from below.
+",/power/,Meanwell Power Supplies,power/image/LRS-350.jpg,power/svg/meanwell_LRS_350_side.svg,N,N,http://www.amazon.com
 25,MOUNTING_PLATE,Dc12v Heat Cool Temp Thermostat,Temperature Control Switch - 12v,/misc/,Misc,misc/image/temp_control_switch.jpg,misc/svg/temp_control_switch.svg,N,N,https://www.amazon.com/gp/product/B00GWFK7FA/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
 26,MOUNTING_PLATE,RenardPlus 6 Port Distro,RenardPlus 6 Port Power Distribution unit.,/power/,Power And Fusing,power/image/renard_plus_dc_distribution_board.jpg,power/svg/renard_plus_dc_distribution_board.svg,N,N,http://www.renard-plus.com
 27,MOUNTING_PLATE,Falcon F48 Diff Controller - v1.0,"Falcon F48 Differential Controler - F48 - v1.0
@@ -82,12 +84,16 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 33,MOUNTING_PLATE,Meanwell LRS-50,"Meanwell LRS-50 Series Power Supply
 <br>
 Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_50_series.jpg,power/svg/meanwell_50_series.svg,N,N,http://www.amazon.com
-34,MOUNTING_PLATE,Buck Converter w/ LED Display,Buck Converter w/ LED Display commonly seen on eBay,/power/,Power And Fusing,power/image/buck_converter_display.jpg,power/svg/buck_converter_display.svg,N,N,https://www.ebay.com/itm/Lot-DC-to-DC-LM2596-Buck-Converter-Voltage-Regulator-Power-Module-w-LED-Display/183202145133?var=690479509849&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D52935%26meid%3Db2de7b834caf459598b671f8d36e6f15%26pid%3D100005%26rk%3D2%26rkt%3D3%26sd%3D183202145133%26itm%3D690479509849&_trksid=p2047675.c100005.m1851
+34,MOUNTING_PLATE,Buck Converter w/ LED Display,"Buck Converter w/ LED Display commonly seen on eBay
+<br><br>
+5/27/19 UPDATE - There are 2 variants of this board on ebay now that look similar.  This version has 2 buttons.
+<br><br>
+As with all components,  it is important to print your deisng to scale to verify all hole placements work your your components before starting your design.",/power/,Power And Fusing,power/image/buck_converter_display.jpg,power/svg/buck_converter_display.svg,N,N,https://www.ebay.com/itm/XL4015-5A-DC-Buck-Step-down-Adjustable-Voltage-Power-Converter-w-LED-Voltmeter/382708058226?hash=item591b2d8872:m:mqhlxSVOPtnDbqPbajEDotADisplay/183202145133?var=690479509849&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D52935%26meid%3Db2de7b834caf459598b671f8d36e6f15%26pid%3D100005%26rk%3D2%26rkt%3D3%26sd%3D183202145133%26itm%3D690479509849&_trksid=p2047675.c100005.m1851
 35,CORO_PROP,Pixel Hole - 12mm - 1 in spacing,Coro Pixel Hole for 12mm pixel - 1in Spacing,/coro/,Coro,coro/image/pixel_hole_12mm.jpg,coro/svg/pixel_hole_12mm_1in.svg,N,N,http://www.amazon.com
 36,CORO_PROP,Candy Cane,Candy Cane Cutout,/shapes/,Shapes,shapes/image/candycane_v1.jpg,shapes/svg/candycane_v1.svg,Y,Y,http://www.amazon.com
 37,CORO_PROP,Star,Star Cutout,/shapes/,Shapes,shapes/image/star_v1.jpg,shapes/svg/star_v1.svg,Y,Y,http://www.amazon.com
 38,CORO_PROP,Pixel Hole - 12mm - 2 in spacing,Coro Pixel Hole for 12mm pixel - 2 in Spacing,/coro/,Coro,coro/image/pixel_hole_12mm.jpg,coro/svg/pixel_hole_12mm_2in.svg,N,N,http://www.amazon.com
-39,MOUNTING_PLATE,Voltage Meter - LED Display,LED Voltage Meter commonly seen on eBay - Note clue will be required to hold in place due to thickness of material,/power/,Power And Fusing,power/image/voltage_meter_dsun.jpg,power/svg/voltage_meter_dsun.svg,N,N,https://www.ebay.com/itm/1x-Mini-DC-5-120V-Voltage-Volt-Meter-Voltmeter-Blue-LED-Panel-3-Digital-Display/282156101427?epid=2100137721&hash=item41b1d06f33:g:tzIAAOSwMgdXx3lA:rk:7:pf:0
+39,MOUNTING_PLATE,Voltage Meter - LED Display,LED Voltage Meter commonly seen on eBay - Note glue will be required to hold in place due to thickness of material,/power/,Power And Fusing,power/image/voltage_meter_dsun.jpg,power/svg/voltage_meter_dsun.svg,N,N,https://www.ebay.com/itm/1x-Mini-DC-5-120V-Voltage-Volt-Meter-Voltmeter-Blue-LED-Panel-3-Digital-Display/282156101427?epid=2100137721&hash=item41b1d06f33:g:tzIAAOSwMgdXx3lA:rk:7:pf:0
 41,MOUNTING_PLATE,ParallelMiner X-Adapter + HP Common Slot Server Power Supply,ParallelMiner X-Adapter + HP Common Slot Server Power Supply - Any HP Power Supply featuring `Common Slot` name should fit regardless of the watts.,/server-power/,HP Server Power,server-power/image/hp_parallelminer_x_adapter_v4.jpg,server-power/svg/hp_parallelminer_x_adapter_v4.svg,N,N,https://www.parallelminer.com/product/breakout-board-adapter-compatible-with-hp-1200-watt-dps-1200fb/
 42,MOUNTING_PLATE,JBoard 8 Port Distro,JBoard 8 Port Distro designed by Jeremy McElroy,/power/,Power And Fusing,power/image/jboard-power-distro-8v1.jpg,power/svg/jboard-power-distro-8v1.svg,N,N,https://jboards.ecwid.com/
 43,MOUNTING_PLATE,JBoard Diff Receiver,JBoard Differential Receiver designed by Jeremy McElroy,/controllers/,Controllers,controllers/image/jboard-diff-to-port-v1.jpg,controllers/svg/jboard-diff-to-port-v1.svg,N,N,https://jboards.ecwid.com/
@@ -101,4 +107,23 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 51,MOUNTING_PLATE,ParallelMiner X5BRK - 8 Port + HP Common Slot Server Power Supply,ParallelMiner X5BRK - 8 Port + HP Common Slot Server Power Supply - Any HP Power Supply featuring `Common Slot` name should fit regardless of the watts.,/server-power/,HP Server Power,server-power/image/hp_parallelminer_X5BRK_adapter.jpg,server-power/svg/hp_parallelminer_X5BRK_adapter.svg,N,N,https://www.parallelminer.com/product/x5-breakout-board-adapter-compatible-with-hp-1200-watt-dps-1200fb/
 52,MOUNTING_PLATE,LOR CMB-24D - V6 24 Channel DC Output Card,LOR CMB-24D - V6 24 Channel DC Output Card,/controllers/,Controllers,controllers/image/lor-cmb24d-v6.jpg,controllers/svg/lor-cmb24d-v6.svg,N,N,http://store.lightorama.com/cmdedcca3.html
 53,MOUNTING_PLATE,Jboard 12 Port HP Common Slot Server Power Supply,Jboard 12 Port HP Common Slot Server Power Supply - Any HP Power Supply featuring `Common Slot` name should fit regardless of the watts.,/server-power/,HP Server Power,server-power/image/hp_jboard_v1.jpg,server-power/svg/hp_jboard_v1.svg,N,N,https://jboards.ecwid.com/Server-Power-Supply-Breakout-Board-p130226822
-54,MOUNTING_PLATE,Meanwell RD-50,Meanwell RD-50 Series Power Supply,/power/,Meanwell Power Supplies,power/image/meanwell_RD50.jpg,power/svg/meanwell_RD50.svg,N,N,http://www.amazon.com
+54,MOUNTING_PLATE,"Raspberry PI Zero (w, 1.3)","Raspberry PI Zero v1.3 NOTE:  This supports the Pi Zero, Pi Zero W, Pi Zero WH",/computers/,Computers,computers/image/raspberry-pi-zero_v1-3.jpg,computers/svg/raspberry-pi-zero_v1-3.svg,N,N,http://www.amazon.com
+55,MOUNTING_PLATE,BeagleBone Black Revision C,BeagleBone Black Revision C ,/computers/,Computers,computers/image/beagleboneblack.jpg,computers/svg/beagleboneblack.svg,N,N,http://www.amazon.com
+56,MOUNTING_PLATE,Buck Converter w/ LED Display v2,"Buck Converter w/ LED Display commonly seen on eBay
+<br><br>
+5/27/19 UPDATE - There are 2 variants of this board on ebay now that look similar but are slightly different sizes.  This version has 1 button on the right of the display.
+<br><br>
+As with all components,  it is important to print your deisng to scale to verify all hole placements work your your components before starting your design.",/power/,Power And Fusing,power/image/buck_converter_display_newversion.jpg,power/svg/buck_converter_display_newversion.svg,N,N,https://www.ebay.com/itm/DC-DC-Digital-Display-Step-Down-Boost-Buck-Board-Converter-Power-Module/232413443004?hash=item361cebb3bc:g:D4oAAOSw5RpbdFVC
+57,MOUNTING_PLATE,Falcon Smart Receiver v1.0,"Falcon Smart Receiver - v1.0
+Different from the older falcon differential receivers, the new smart receivers can be daisy chained together",/falcon/,Falcon,falcon/image/falcon-smart-receiver_v1.jpg,falcon/svg/falcon-smart-receiver_v1.svg,N,N,https://www.pixelcontroller.com/store/index.php?id_product=56&controller=product
+58,MOUNTING_PLATE,JBoard 4 Port Distro,JBoard 4 Port Distro designed by Jeremy McElroy,/power/,Power And Fusing,power/image/jboard-power-distro-4.jpg,power/svg/jboard-power-distro-4.svg,N,N,https://jboards.ecwid.com/
+59,MOUNTING_PLATE,Meanwell LRS-150,"Meanwell LRS-150 Series Power Supply
+<br>
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_LRS_150.jpg,power/svg/meanwell_LRS_150.svg,N,N,http://www.amazon.com
+60,MOUNTING_PLATE,Meanwell LRS-35,"Meanwell LRS-35 Series Power Supply
+<br>
+Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_LRS_35.jpg,power/svg/meanwell_LRS_35.svg,N,N,http://www.amazon.com
+61,MOUNTING_PLATE,Kulp Lights F32-B,Kulp Lights F32-B v 2.0,/controllers/,Controllers,controllers/image/F32B.jpg,controllers/svg/F32B.svg,N,N,https://www.wiredwatts.com/ctrlf32b
+61,MOUNTING_PLATE,Kulp Lights F8-B+ v3.0,Kulp Lights F8-B+ v3.0 BBB Cape,/controllers/,Controllers,controllers/image/kulp_lights_f8-b+_v3.0.jpeg,controllers/svg/kulp_lights_f8-b+_v3.0.svg,N,N,https://kulplights.com/product/f8-b/
+62,MOUNTING_PLATE,Meanwell RD-50,Meanwell RD-50 Series Power Supply,/power/,Meanwell Power Supplies,power/image/meanwell_RD50.jpg,power/svg/meanwell_RD50.svg,N,N,http://www.amazon.com
+
