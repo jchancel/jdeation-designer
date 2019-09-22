@@ -123,7 +123,7 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 60,MOUNTING_PLATE,Meanwell LRS-35,"Meanwell LRS-35 Series Power Supply
 <br>
 Hole size is 3mm - designed for screws to pass through material and into power supply from below.",/power/,Meanwell Power Supplies,power/image/meanwell_LRS_35.jpg,power/svg/meanwell_LRS_35.svg,N,N,http://www.amazon.com
-61,MOUNTING_PLATE,Kulp Lights F32-B,Kulp Lights F32-B v 2.0,/controllers/,Controllers,controllers/image/F32B.jpg,controllers/svg/F32B.svg,N,N,https://www.wiredwatts.com/ctrlf32b
-61,MOUNTING_PLATE,Kulp Lights F8-B+ v3.0,Kulp Lights F8-B+ v3.0 BBB Cape,/controllers/,Controllers,controllers/image/kulp_lights_f8-b+_v3.0.jpeg,controllers/svg/kulp_lights_f8-b+_v3.0.svg,N,N,https://kulplights.com/product/f8-b/
-62,MOUNTING_PLATE,Meanwell RD-50,Meanwell RD-50 Series Power Supply,/power/,Meanwell Power Supplies,power/image/meanwell_RD50.jpg,power/svg/meanwell_RD50.svg,N,N,http://www.amazon.com
-
+61,MOUNTING_PLATE,Kulp Lights F32-B,Kulp Lights F32-B v 2.0,/controllers/,Controllers,controllers/image/F32B.jpg,controllers/svg/F32B.svg,N,N,https://kulplights.com/product/f32-b/
+62,MOUNTING_PLATE,Kulp Lights F8-B+ v3.0,Kulp Lights F8-B+ v3.0 BBB Cape,/controllers/,Controllers,controllers/image/kulp_lights_f8-b_v3-0.jpeg,controllers/svg/kulp-lights-f8-b_v3-0.svg,N,N,https://kulplights.com/product/f8-b/
+63,MOUNTING_PLATE,Meanwell RD-50,Meanwell RD-50 Series Power Supply,/power/,Meanwell Power Supplies,controllers/power/image/meanwell_RD50.jpg,controllers/power/svg/meanwell_RD50.svg,N,N,http://www.amazon.com
+64,MOUNTING_PLATE,Kulp PocketScroller v2.0,Kulp PocketScroller v2.0,/controllers/,Controllers,controllers/image/pocketscroller_v2.jpeg,controllers/svg/pocketscroller_v2.svg,N,N,https://kulplights.com/product/pocketscroller/
