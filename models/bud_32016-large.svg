@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="318mm"
+   width="317mm"
    height="280mm"
-   viewBox="0 0 318 280"
+   viewBox="0 0 317 280"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -650,14 +650,15 @@
        id="*PAPER_SPACE-59" />
     <marker
        style="overflow:visible"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        orient="auto"
        id="DistanceX-53">
       <path
          id="path2810"
-         style="stroke:#000000; stroke-width:0.5"
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
     </marker>
     <pattern
        y="0"
@@ -691,14 +692,15 @@
        id="*PAPER_SPACE-78" />
     <marker
        style="overflow:visible"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        orient="auto"
        id="DistanceX-6">
       <path
          id="path1150"
-         style="stroke:#000000; stroke-width:0.5"
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
     </marker>
     <pattern
        y="0"
@@ -732,14 +734,15 @@
        id="*PAPER_SPACE-06" />
     <marker
        style="overflow:visible"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        orient="auto"
        id="DistanceX-13">
       <path
          id="path1627"
-         style="stroke:#000000; stroke-width:0.5"
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
     </marker>
     <pattern
        y="0"
@@ -771,6 +774,48 @@
        id="*MODEL_SPACE-8" />
     <symbol
        id="*PAPER_SPACE-70" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-453">
+      <path
+         id="path1324"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-00"
+       height="8">
+      <path
+         id="path1327"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1329"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1331"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-5" />
+    <symbol
+       id="*PAPER_SPACE-1" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -780,10 +825,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.80332979"
-     inkscape:cx="661.87479"
-     inkscape:cy="552.47767"
+     inkscape:cx="592.0535"
+     inkscape:cy="546.9162"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1182"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1089"
@@ -814,8 +859,9 @@
       <path
          id="path1164"
          style="fill:none;stroke:#000000"
-         d="M -94.488189,1122.5197 H -578.26772 a 94.488189,94.488189 0 0 0 -94.48819,-94.4882 V 162.51968 a 94.488189,94.488189 0 0 0 94.48819,-94.488184 H -94.377958 A 94.488189,94.488189 0 0 0 0,162.48593 v 865.54557 a 94.488189,94.488189 0 0 0 -94.488189,94.4882 z"
-         inkscape:connector-curvature="0" />
+         d="m 0,1028.0315 c -52.18439,0 -94.488195,42.3038 -94.488189,94.4882 H -578.26772 c 1e-5,-52.1844 -42.3038,-94.4882 -94.48819,-94.4882 V 162.51968 c 52.18438,0 94.48819,-42.3038 94.48819,-94.488184 H -94.377958 C -94.359371,120.15968 -52.128157,162.42512 0,162.48593"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
       <path
          id="path1166"
          style="fill:none;stroke:#000000"
@@ -856,6 +902,16 @@
          style="fill:none;stroke:#000000"
          d="m -531.2126,105.82677 a 9.259843,9.259843 0 1 0 -18.51968,0 9.259843,9.259843 0 1 0 18.51968,0 z"
          inkscape:connector-curvature="0" />
+      <g
+         id="g1340"
+         inkscape:label="0"
+         transform="translate(596.76326,-0.83078545)">
+        <path
+           id="path1338"
+           style="fill:none;stroke:#000000"
+           d="m -483.77953,1111.1811 a 11.338583,11.338583 0 0 1 -11.33858,11.3386 h -35.906 v -37.8039 a 9.4488194,9.4488194 0 0 0 -18.89752,-0.067 h -1.2e-4 v 37.8711 h -28.34597 a 18.897638,18.897638 0 0 1 -18.89763,-18.8977 V 86.929118 a 18.897638,18.897638 0 0 1 18.89763,-18.897638 l 28.34645,8e-6 1e-5,37.800572 a 9.448819,9.448819 0 1 0 18.89763,0 V 68.031488 l 35.90552,-8e-6 a 11.338583,11.338583 0 0 1 11.33858,11.338583 v 52.913387 a 11.338583,11.338583 0 0 0 11.33859,11.33858 h 272.12598 a 11.338583,11.338583 0 0 0 11.33858,-11.33858 V 79.370063 a 11.338583,11.338583 0 0 1 11.33859,-11.338583 l 35.94281,8e-6 3e-5,37.769892 a 9.448819,9.448819 0 0 0 18.8976,0.0254 V 68.031488 l 28.309161,-8e-6 a 18.897638,18.897638 0 0 1 18.897638,18.897638 V 1103.622 a 18.897638,18.897638 0 0 1 -18.897638,18.8977 h -28.346461 v -37.7953 a 9.44882,9.44882 0 0 0 -18.89764,0 v 37.7953 h -35.9055 a 11.338583,11.338583 0 0 1 -11.33859,-11.3386 v -52.9134 a 11.338583,11.338583 0 0 0 -11.33858,-11.3386 h -272.12598 a 11.338583,11.338583 0 0 0 -11.33859,11.3386 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <g
        aria-label="#10 Self Tap"
@@ -1477,16 +1533,6 @@
          d="m 413.01498,960.01208 q 0,0.99609 -0.82683,1.63412 -0.82031,0.63802 -2.24609,0.63802 -0.80729,0 -1.48438,-0.18881 -0.67057,-0.19531 -1.1263,-0.42317 v -1.3737 h 0.0651 q 0.57942,0.4362 1.28906,0.69661 0.70963,0.25391 1.36068,0.25391 0.80729,0 1.26302,-0.26042 0.45573,-0.26041 0.45573,-0.82031 0,-0.42969 -0.2474,-0.65104 -0.2474,-0.22136 -0.95052,-0.37761 -0.26042,-0.0586 -0.68359,-0.13671 -0.41667,-0.0781 -0.76172,-0.16927 -0.95703,-0.25391 -1.36068,-0.74219 -0.39714,-0.49479 -0.39714,-1.21094 0,-0.44922 0.1823,-0.84635 0.1888,-0.39714 0.5664,-0.70964 0.36459,-0.30599 0.92448,-0.48177 0.56641,-0.18229 1.26302,-0.18229 0.65104,0 1.31511,0.16276 0.67057,0.15625 1.11328,0.38411 v 1.3086 h -0.0651 q -0.46875,-0.34506 -1.13932,-0.57943 -0.67057,-0.24089 -1.3151,-0.24089 -0.67058,0 -1.13282,0.26042 -0.46224,0.25391 -0.46224,0.76172 0,0.44922 0.27995,0.67708 0.27344,0.22787 0.88542,0.3711 0.33854,0.0781 0.75521,0.15625 0.42317,0.0781 0.70312,0.14323 0.85287,0.19531 1.31511,0.67057 0.46224,0.48177 0.46224,1.27604 z"
          style="text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1"
          id="path1622"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g1643"
-       inkscape:label="0"
-       transform="matrix(0.26458333,0,0,0.26458333,337.51587,0.10412666)">
-      <path
-         id="path1641"
-         style="fill:none;stroke:#000000"
-         d="m -122.79735,105.82677 a 9.448819,9.448819 0 0 1 -18.8976,-0.0254 l -3e-5,-37.769892 -47.2814,-8e-6 v 75.59055 H -483.77953 V 68.03148 l -47.2441,8e-6 v 37.800572 a 9.448819,9.448819 0 1 1 -18.89763,0 l -1e-5,-37.800572 -28.34645,-8e-6 a 18.897638,18.897638 0 0 0 -18.89763,18.897638 V 1103.622 a 18.897638,18.897638 0 0 0 18.89763,18.8977 h 28.34597 v -37.8711 h 1.2e-4 a 9.4488194,9.4488194 0 0 1 18.89752,0.067 v 37.8039 h 47.24458 v -75.5906 h 294.80315 v 75.5906 h 47.24409 v -37.7953 a 9.44882,9.44882 0 0 1 18.89764,0 v 37.7953 h 28.346461 a 18.897638,18.897638 0 0 0 18.897638,-18.8977 V 86.929118 A 18.897638,18.897638 0 0 0 -94.488189,68.03148 l -28.309161,8e-6 z"
          inkscape:connector-curvature="0" />
     </g>
     <g
