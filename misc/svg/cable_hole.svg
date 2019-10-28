@@ -68,11 +68,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.129012"
-     inkscape:cx="8.6668435"
-     inkscape:cy="18.228302"
+     inkscape:zoom="16.354681"
+     inkscape:cx="-7.7271979"
+     inkscape:cy="19.492712"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4503"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1089"
@@ -103,7 +103,7 @@
        style="stroke:#0f0000;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none">
       <path
          id="path4501"
-         style="fill:none;stroke:#0f0000;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 30.23622,1122.5197 H 11.338583 A 11.338583,11.338583 0 0 0 0,1133.8583 v 5.6693 a 11.338583,11.338583 0 0 0 11.338583,11.3385 H 30.23622 a 11.338583,11.338583 0 0 0 11.338583,-11.3385 v -5.6693 A 11.338583,11.338583 0 0 0 30.23622,1122.5197 Z"
          inkscape:connector-curvature="0" />
     </g>
