@@ -1076,9 +1076,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1360799"
-     inkscape:cx="565.02772"
-     inkscape:cy="353.4141"
+     inkscape:zoom="0.8033298"
+     inkscape:cx="252.93509"
+     inkscape:cy="224.32426"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1365,7 +1365,7 @@
     </g>
     <g
        aria-label="Top Plate"
-       transform="matrix(0.26458333,0,0,0.26458333,36.625506,-94.048585)"
+       transform="matrix(0.26458333,0,0,0.26458333,38.23706,-73.797736)"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
        id="flowRoot4611-4">
       <path
@@ -1572,7 +1572,7 @@
        aria-label="BudBox 32012 Double Decker by Jdeation Designs"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text1336"
-       transform="translate(13.274815,-6.963194)">
+       transform="translate(6.6876491,1.92948)">
       <path
          d="m 155.05574,289.22432 q 0,0.1912 -0.0723,0.33762 -0.0723,0.14641 -0.19464,0.24115 -0.1447,0.11369 -0.31868,0.16192 -0.17225,0.0482 -0.43925,0.0482 h -0.9095 v -2.56487 h 0.75964 q 0.28078,0 0.4203,0.0207 0.13953,0.0207 0.267,0.0861 0.14125,0.0741 0.20498,0.1912 0.0637,0.11541 0.0637,0.27733 0,0.18259 -0.093,0.31178 -0.093,0.12747 -0.24805,0.20499 v 0.0138 q 0.26011,0.0534 0.40997,0.2291 0.14986,0.17397 0.14986,0.44097 z m -0.57361,-1.15583 q 0,-0.093 -0.031,-0.15675 -0.031,-0.0637 -0.0999,-0.10336 -0.081,-0.0465 -0.19637,-0.0568 -0.11541,-0.0121 -0.28595,-0.0121 h -0.40652 v 0.7407 h 0.44098 q 0.16019,0 0.25493,-0.0155 0.0947,-0.0172 0.1757,-0.0689 0.081,-0.0517 0.11369,-0.13263 0.0345,-0.0827 0.0345,-0.19465 z m 0.21877,1.16961 q 0,-0.15503 -0.0465,-0.24633 -0.0465,-0.0913 -0.16881,-0.15503 -0.0827,-0.0431 -0.20154,-0.0551 -0.11713,-0.0138 -0.28594,-0.0138 h -0.53572 v 0.95429 h 0.45131 q 0.22393,0 0.3669,-0.0224 0.14298,-0.0241 0.23427,-0.0861 0.0965,-0.0672 0.14125,-0.1533 0.0448,-0.0861 0.0448,-0.22221 z"
          style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
