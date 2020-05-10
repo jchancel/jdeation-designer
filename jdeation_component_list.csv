@@ -134,3 +134,4 @@ Hole size is 3mm - designed for screws to pass through material and into power s
 72,CORO_PROP,SVG Line Test,SVG Line Test,/shapes/,Shapes,shapes/image/candycane_v1.jpg,shapes/svg/line_etch.svg,Y,Y,http://www.amazon.com
 73,CORO_PROP,SVG Line Test with potrace,SVG Line Test with potrace,/shapes/,Shapes,shapes/image/candycane_v1.jpg,shapes/svg/line_etch_potrace.svg,Y,Y,http://www.amazon.com
 74,MOUNTING_PLATE,Kulp Lights K4-PB,Kulp Lights K4-PB,/controllers/,Controllers,controllers/image/kulp-k4pb.jpg,controllers/svg/kulp-k4pb.svg,N,N,https://kulplights.com/product/k8-pb/
+75,MOUNTING_PLATE,30mm Arcade Button - Adafruit,30mm Arcade Button - Adafruit,/electronics/,Electronics,electronics/image/arcade_button_30mm.jpg,electronics/svg/arcade_button_30mm.svg,N,N,https://www.adafruit.com/product/473
