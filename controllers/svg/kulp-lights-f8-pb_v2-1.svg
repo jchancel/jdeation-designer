@@ -6305,22 +6305,5 @@
      cy="20.053495"
      cx="198.42166"
      class="cls-66" />
-  <flowRoot
-     style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     id="flowRoot2136"
-     xml:space="preserve"><flowRegion
-       style="font-size:13.3333px"
-       id="flowRegion2138"><rect
-         style="font-size:13.33333333px;"
-         y="130.50726"
-         x="51.740963"
-         height="69.850304"
-         width="187.99217"
-         id="rect2140" /></flowRegion><flowPara
-       id="flowPara2142" /></flowRoot>
-  <g
-     id="flowRoot2160"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none"
-     transform="matrix(0.75000284,0,0,0.75000284,-3.6652885,9.7014674)"
-     aria-label="Mounting Notes:  Use BBB mounting holes to mount to plate.  Extra cape mounting holes not necessary." />
+
 </svg>
